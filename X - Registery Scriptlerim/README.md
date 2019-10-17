@@ -1,3 +1,7 @@
+---
+description: Windows 10 kayıt defteri scriptlerim.
+---
+
 # 🟦 Registery Scriptlerim
 
 <!--Index-->

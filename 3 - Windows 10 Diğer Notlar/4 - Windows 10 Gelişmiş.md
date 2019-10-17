@@ -1,4 +1,4 @@
-# Windows 10 Gelişmiş
+# 🤔 Windows 10 Gelişmiş
 
 ## Otomatik Giriş Yapma
 
