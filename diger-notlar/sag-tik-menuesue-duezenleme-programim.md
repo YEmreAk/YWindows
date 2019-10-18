@@ -9,6 +9,7 @@ description: 'Windows için denenmiş, sağ tık düzenleme programım'
 * Bu program, masaüstü sağ tık menüsüne, öğe eklemenize olanak sağlar.
 * Benden kaynaklı \(kodlamada\) sorun olduğuna emin olduğunuzda bana belirtirseniz sevinirim :\)
 * Uygulamanın kendi tarafımdan denendiğini ve çalıştığını ifade etmek isterim :\)
+* 4 saat içerisinde yapılmıştır 🥱
 
 {% embed url="https://drive.google.com/open?id=1E-H6zi6IkycgBrAJ03vB9cCxuvTVbn81" caption="Dosyanın indirme linki" %}
 
