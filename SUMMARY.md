@@ -23,6 +23,7 @@
 * [🌠 Windows 10 Genel Notlar](diger-notlar/1-windows-10-genel-notlar.md)
 * [🌆 Windows Ortam Değişkenleri](diger-notlar/2-windows-ortam-degiskenleri.md)
 * [🧱 Windows Sağ Tık Menüsünü Özelleştirme](diger-notlar/3-windows-sag-tik-menuesuenue-oezellestirme.md)
+* [✨ Sağ Tık Menüsü Düzenleme Programım](diger-notlar/sag-tik-menuesue-duezenleme-programim.md)
 * [🤔 Windows 10 Gelişmiş](diger-notlar/4-windows-10-gelismis.md)
 * [🌇 Windows Subsystem for Linux \(WSL\)](diger-notlar/5-windows-subsystem-for-linux.md)
 * [👜 Windows Mağazasından İndirilen Uygulamaları Komut ile Çalıştırma](diger-notlar/6-windows-magazasindan-indirilen-uygulamalari-komut-ile-calistirma.md)
