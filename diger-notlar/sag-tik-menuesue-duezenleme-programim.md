@@ -10,7 +10,7 @@ description: 'Windows için denenmiş, sağ tık düzenleme programım'
 * Benden kaynaklı \(kodlamada\) sorun olduğuna emin olduğunuzda bana belirtirseniz sevinirim :\)
 * Uygulamanın kendi tarafımdan denendiğini ve çalıştığını ifade etmek isterim :\)
 
-> İndirmek için [buraya ](https://drive.google.com/open?id=1eF-3v-c01uN7t1HuHSNHF3QO6-pOdove)tıklayabilirsin.
+> İndirmek için [buraya ](https://drive.google.com/open?id=1E-H6zi6IkycgBrAJ03vB9cCxuvTVbn81)tıklayabilirsin.
 
 ![Sa&#x11F; T&#x131;k Men&#xFC;s&#xFC; D&#xFC;zenleme &#xF6;rnek kullan&#x131;m&#x131;](../.gitbook/assets/image.png)
 
