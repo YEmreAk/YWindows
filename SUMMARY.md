@@ -11,7 +11,11 @@
 
 * [🚀 Sıfırdan Windows 10](giris/0-sifirdan-windows-10.md)
 * [💘 Windows 10 Kısayolları](giris/1-windows-10-kisayollari.md)
-* [Untitled](giris/untitled-1.md)
+
+## 🧱 Windows 10 Temeli
+
+* [🖤 Windows 10 Komut İstem \(CMD\) Notları](windows-10-temeli/2-windows-10-komut-istemi-cmd-notlari.md)
+* [💨 Yavaşlayan Bilgisayarı Hızlandırma](windows-10-temeli/1-yavaslayan-bilgisayari-hizlandirma.md)
 
 ## ✨ Diğer Notlar
 
@@ -24,10 +28,4 @@
 * [👜 Windows Mağazasından İndirilen Uygulamaları Komut ile Çalıştırma](diger-notlar/6-windows-magazasindan-indirilen-uygulamalari-komut-ile-calistirma.md)
 * [🧙‍ Windows'da Gizlenmiş GodMode](diger-notlar/7-windowsda-gizlenmis-godmode.md)
 * [🟦 Registery Scriptlerim](diger-notlar/x-registery-scriptlerim.md)
-
-## 🧱 Windows 10 Temeli
-
-* [🖤 Windows 10 Komut İstem \(CMD\) Notları](windows-10-temeli/2-windows-10-komut-istemi-cmd-notlari.md)
-* [💨 Yavaşlayan Bilgisayarı Hızlandırma](windows-10-temeli/1-yavaslayan-bilgisayari-hizlandirma.md)
-* [Untitled](windows-10-temeli/untitled.md)
 
