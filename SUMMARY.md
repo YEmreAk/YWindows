@@ -2,7 +2,6 @@
 
 * [🎇 Windows 10 Notları](README.md)
 * [👀 Neler değişti](changelog.md)
-* [💖 Katkıda Bulunma Rehberi](./CONTRIBUTING.md)
 
 ## 🔗 Faydalı Bağlantılar
 
