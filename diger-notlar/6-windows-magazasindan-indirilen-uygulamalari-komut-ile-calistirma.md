@@ -15,7 +15,7 @@ description: >-
 * Bulduğunuz uygulama bilgilerindeki alttaki kısımlar ileride kullanılacaktır:
   * `PackageFamilyName`
   * `InstallLocation`
-* `cat "InstallLocation\AppxManifest.xml" | grep Executable=` komutunu yazın ve çıkan sonuçtaki `Application Id=` değerini kaydedin
+* `cat "InstallLocation\AppxManifest.xml" | grep "Executable="`  komutunu yazın ve çıkan sonuçtaki `"Application Id="` değerini kaydedin
 
 ## 👨‍💻 Komutu Tanımlama
 
