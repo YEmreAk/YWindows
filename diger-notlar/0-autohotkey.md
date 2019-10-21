@@ -38,8 +38,6 @@ description: Windows üzerinde kişisel kısayolları ve scriptleri oluşturmaya
 ```text
 #SingleInstance Force
 
-SetTitleMatchMode, 2
-
 ToggleWindow(windowName)
 {
     WinGet, WinState, MinMax, %windowName%
@@ -56,6 +54,7 @@ ToggleWindow(windowName)
 
 ShowWin(windowName, url)
 {
+    SetTitleMatchMode, 2
     IfWinExist, %windowName%
     {
         ToggleWindow(windowName)
@@ -65,11 +64,27 @@ ShowWin(windowName, url)
     return
 }
 
-;windowName=%A_ScriptName%
+ShowFolder(folderName, folderPath)
+{
+    SetTitleMatchMode, 3
+    IfWinExist, %folderName%
+    {
+        ToggleWindow(windowName)
+    }
+    else
+        Run, explorer %folderPath%
+    return
+}
+
+;windowName=%A_ScriptName%ß
 return
 
+; Uygulama kısayolları Win ile başlar
 #w::
-    ShowWin("Rambox", "C:\ProgramData\chocolatey\lib\rambox\tools\Rambox.exe")
+    ShowWin("Rambox", "C:\Users\Yedhrab\AppData\Local\Programs\RamboxPro\RamboxPro.exe")
+    return
+#g::
+    ShowWin("GitHub Desktop", "C:\Users\Yedhrab\AppData\Local\GitHubDesktop\GitHubDesktop.exe")
     return
 #q::
     ShowWin("- OneNote", "shell:appsFolder\Microsoft.Office.OneNote_8wekyb3d8bbwe!microsoft.onenoteim")
@@ -80,6 +95,27 @@ return
 #+t::
     ShowWin("Trello", "shell:appsFolder\45273LiamForsyth.PawsforTrello_7pb5ddty8z1pa!trello")
     return
+
+; Dizin kısayolları PgDn ile başlar
+PgDn & g::
+    ShowFolder("GitHub", "C:\Users\Yedhrab\Documents\GitHub")
+    return
+PgDn & s::
+    ShowWin("ShareX", "shell:appsFolder\19568ShareX.ShareX_egrzcvs15399j!ShareX")
+    return
+PgDn & Shift::
+    ShowFolder("Startup", "C:\Users\Yedhrab\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup")
+    return
+PgDn & i::
+    ShowFolder("Icons", "C:\Users\Yedhrab\Google Drive\Pictures\Icons")
+    return
+PgDn & d::
+    ShowFolder("Downloads", "C:\Users\Yedhrab\Downloads")
+    return
+PgDn & u::
+    ShowFolder("Yedhrab", "C:\Users\Yedhrab")
+    return
+
 ```
 
 > [Minimize and Restore Window with one command](https://autohotkey.com/board/topic/49207-minimize-and-restore-window-with-one-command/?p=306623)
