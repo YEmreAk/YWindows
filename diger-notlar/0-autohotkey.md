@@ -52,9 +52,9 @@ ToggleWindow(windowName)
     }
 }
 
-ShowWin(windowName, url)
+ShowWin(windowName, url, mode=2)
 {
-    SetTitleMatchMode, 2
+    SetTitleMatchMode, %mode%
     IfWinExist, %windowName%
     {
         ToggleWindow(windowName)
@@ -81,10 +81,10 @@ return
 
 ; Uygulama kısayolları Win ile başlar
 #w::
-    ShowWin("Rambox", "C:\Users\Yedhrab\AppData\Local\Programs\RamboxPro\RamboxPro.exe")
+    ShowWin("WhatsApp", "shell:appsFolder\5319275A.WhatsAppDesktop_cv1g1gvanyjgm!WhatsAppDesktop", 3)
     return
 #g::
-    ShowWin("GitHub Desktop", "C:\Users\Yedhrab\AppData\Local\GitHubDesktop\GitHubDesktop.exe")
+    ShowWin("GitHub Desktop", "C:\Users\Yedhrab\AppData\Local\GitHubDesktop\GitHubDesktop.exe", 3)
     return
 #q::
     ShowWin("- OneNote", "shell:appsFolder\Microsoft.Office.OneNote_8wekyb3d8bbwe!microsoft.onenoteim")
