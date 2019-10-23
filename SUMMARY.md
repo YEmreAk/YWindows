@@ -29,4 +29,5 @@
 * [👜 Windows Mağazasından İndirilen Uygulamaları Komut ile Çalıştırma](diger-notlar/6-windows-magazasindan-indirilen-uygulamalari-komut-ile-calistirma.md)
 * [🧙‍ Windows'da Gizlenmiş GodMode](diger-notlar/7-windowsda-gizlenmis-godmode.md)
 * [🟦 Registery Scriptlerim](diger-notlar/x-registery-scriptlerim.md)
+* [Untitled](diger-notlar/untitled.md)
 

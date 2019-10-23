@@ -64,4 +64,5 @@ Bu sefer yukarıdaki işlemlerin aynısını:
   * [Link2](https://www.askvg.com/ultimate-tutorial-to-customize-desktop-context-menu-in-windows-vista-server-2008-and-windows-7/)
   * [Link3](https://www.askvg.com/add-cascading-menus-for-your-favorite-programs-in-windows-7-desktop-context-menu/)
 * [Stackoverflow](https://stackoverflow.com/questions/20449316/how-add-context-menu-item-to-windows-explorer-for-folders)
+* [Visual Studio'u menüde gizleme](https://developercommunity.visualstudio.com/content/problem/26397/disable-context-menu-for-open-in-visual-studio.html)
 
