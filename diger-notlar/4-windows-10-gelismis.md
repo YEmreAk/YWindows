@@ -1,6 +1,6 @@
 # 🤔 Windows 10 Gelişmiş
 
-## Otomatik Giriş Yapma
+## 🚶‍♂️ Otomatik Giriş Yapma
 
 Her defasında şifre girişi yapmaz istemezseniz, otomatik şifre girmek sizin için faydalı olacaktır.
 
@@ -8,7 +8,7 @@ Her defasında şifre girişi yapmaz istemezseniz, otomatik şifre girmek sizin 
 * Çıkan alandaki kutucuğun işaretini kaldırın
 * Şifrenizi girin ve onlayın
 
-## Dizin Resmini Değiştirme
+## 📂 Dizin Resmini Değiştirme
 
 Dizin resimleri içerisindeki `desktop.ini` dosyası ile değiştirilmekte
 
@@ -23,6 +23,12 @@ Mode=
 Vid=
 FolderType=Documents
 ```
+
+## 🎌 Startup \(Başlangıç\) Programlarını Düzenleme
+
+Görev yöneticisi **Startup** sekmesinden veya alttaki uygulama üzerinden yönetebilirsin.
+
+{% embed url="https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns" %}
 
 ## ⏹ RegEdit Düzenleme Dosyası
 
@@ -124,26 +130,6 @@ Alttaki işlem ile file explorer'a hem **tab** hem de **önizleme** fonksiyonu e
 ## Windows 10 Composer
 
 > [Buradan](https://github.com/samhocevar/wincompose) detaylara erişebilirsin.
-
-## Windows10 Karanlık Tema Kurulumu
-
-En çok sevilen karanlık tema olan [Nocturnal](https://www.deviantart.com/chloechantelle/art/Nocturnal-W10-582106490) temasını kurmak için:
-
-* Kurulum dosyasını [buradan](https://www.deviantart.com/download/582106490/d9mkk8q-d0678559-518e-48f3-bf36-30bd91f73496?token=53c9fe62794d3574b12d5aad67c1998665b93c20&ts=1558436081) indirin ve `zip` halinden çıkarın , eğer bu link çalışmaz ise sitesinden erişebilirsiniz
-* Güvenlik amaçlı _System Geri Dönüşüm Noktası_ oluşturun
-* İndirdiğiniz dosyada `Blank Caption Text` dizine girin ve içerisinde bulunan `Blank.ttf` dosyasına sağ tıklayın ve `Yükle` deyin
-* Ardından `Blank.reg` dosyasını çalıştırın
-  * Bu değişikliği geri almak isterseniz `Default.reg` dosyasınını kullanabilirsiniz
-* `Visual Style` dizinindeki seçtiğiniz bir version ismine sahip olan klasörün **içindekileri** kopyalayın ve `C:\Windows\Resources\Themes` dizinine yapıştırın
-* [UltraUXThemePatcher](https://www.deviantart.com/users/outgoing?https://www.syssel.net/hoefs/software_uxtheme.php?lang=en) ile bilgisayarınıza tema yamasını kurun
-* _Settings &gt; Personalization &gt; Themes &gt; Select the theme_
-* Dosya gezginindeki en üstteki çubuğu kaldırmak \(_ribbon_\) için:
-  * [OldNewExplorer](https://tihiy.net/files/OldNewExplorer.rar) programını indirin ve çıkartarak `.exe` uzantılı dosyayı **yönetici olarak** çalıştırın
-  * `Use commond bar instead of ribbon` kutucuğunu seçin
-    * Altındaki kutucuklardan sadece `Use alternate navigation button style` olanı seçin
-  * `Show status bar` kutucuğunun seçimini kaldırın
-  * `Install` butonuna tıklayın
-* Tüm işlemler bittiğine göre artık, Ayarlar &gt; Kişiselleştirme &gt; Tema kısmından `Nocturnal` temasını seçebilirsiniz
 
 ## Windows Saat Sorunu
 
