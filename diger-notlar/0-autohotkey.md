@@ -35,8 +35,41 @@ description: Windows üzerinde kişisel kısayolları ve scriptleri oluşturmaya
 
 > Bu örnek mesajlaşma uygulamarını tek platformda sunan [Rambox](https://rambox.pro/) için kısayolunu da içerir
 
+{% code-tabs %}
+{% code-tabs-item title="ShowWindow.ahk" %}
 ```text
 #SingleInstance Force
+
+ToogleTray(windowName)
+{
+    DetectHiddenWindows, Off
+    IfWinNotExist, %windowName%
+    {
+        WinRestore, %windowName%
+        WinShow, %windowName%
+        WinActivate, %windowName%
+    }
+
+    else
+    {
+        WinMinimize, %windowName%
+        WinHide, %windowName%
+    }
+
+    return
+}
+
+ShowTray(windowName, url, mode=3)
+{
+    SetTitleMatchMode, %mode%
+    DetectHiddenWindows, On
+    IfWinExist, %windowName%
+        ToogleTray(windowName)
+    else
+        Run, %url%
+
+    return
+}
 
 ToggleWindow(windowName)
 {
@@ -49,23 +82,28 @@ ToggleWindow(windowName)
     else
     {
         WinMinimize, %windowName%
+        WinMinimize, %windowName% ; Tureng için 2 tane pencere açılıyor
     }
-}
 
-ShowWin(windowName, url, mode=2)
-{
-    SetTitleMatchMode, %mode%
-    IfWinExist, %windowName%
-    {
-        ToggleWindow(windowName)
-    }
-    else
-        Run, %url%
     return
 }
 
+ShowWin(windowName, url, mode=3)
+{
+
+    SetTitleMatchMode, %mode%
+    IfWinExist, %windowName%
+        ToggleWindow(windowName)
+    else
+        Run, %url%
+
+    return
+}
+
+
 ShowFolder(folderName, folderPath)
 {
+
     SetTitleMatchMode, 3
     IfWinExist, %folderName%
     {
@@ -81,19 +119,19 @@ return
 
 ; Uygulama kısayolları Win ile başlar
 #w::
-    ShowWin("WhatsApp", "shell:appsFolder\5319275A.WhatsAppDesktop_cv1g1gvanyjgm!WhatsAppDesktop", 3)
+    ShowTray("WhatsApp", "shell:appsFolder\5319275A.WhatsAppDesktop_cv1g1gvanyjgm!WhatsAppDesktop")
     return
 #g::
-    ShowWin("GitHub Desktop", "C:\Users\Yedhrab\AppData\Local\GitHubDesktop\GitHubDesktop.exe", 3)
+    ShowTray("GitHub Desktop", "C:\Users\Yedhrab\AppData\Local\GitHubDesktop\GitHubDesktop.exe")
     return
 #q::
-    ShowWin("- OneNote", "shell:appsFolder\Microsoft.Office.OneNote_8wekyb3d8bbwe!microsoft.onenoteim")
+    ShowWin("- OneNote", "shell:appsFolder\Microsoft.Office.OneNote_8wekyb3d8bbwe!microsoft.onenoteim", 2)
     return
 #t::
-    ShowWin("Tureng", "shell:appsFolder\24232AlperOzcetin.Tureng_9n2ce2f97t3e6!App")
+    ShowWin("Tureng Dictionary", "shell:appsFolder\24232AlperOzcetin.Tureng_9n2ce2f97t3e6!App")
     return
 #+t::
-    ShowWin("Trello", "shell:appsFolder\45273LiamForsyth.PawsforTrello_7pb5ddty8z1pa!trello")
+    ShowTray("Trello", "shell:appsFolder\45273LiamForsyth.PawsforTrello_7pb5ddty8z1pa!trello", 2)
     return
 
 ; Dizin kısayolları PgDn ile başlar
@@ -116,7 +154,10 @@ PgDn & u::
     ShowFolder("Yedhrab", "C:\Users\Yedhrab")
     return
 
+
 ```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
 
 > [Minimize and Restore Window with one command](https://autohotkey.com/board/topic/49207-minimize-and-restore-window-with-one-command/?p=306623)
 
