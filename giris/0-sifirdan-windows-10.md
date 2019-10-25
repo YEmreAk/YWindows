@@ -55,17 +55,18 @@ Siteye girdiğinizde sırasıyla alttaki ayarları açamınız \| seçmeniz gere
 | [🌍 Chrome](https://www.google.com/chrome/) | Tarayıcı |
 | [🌍 Brave](https://brave.com/) | Reklamsız Chromium tabanlı tarayıcı |
 | [👨‍💻 VsCode](https://code.visualstudio.com/download) | Kodlama için editör |
-| [㊙ FiraCode](https://github.com/tonsky/FiraCode) | Kodlama fontu \(`ttf` dizinindekiler kurulacak\) |
-| [🗃 Winrar](https://www.win-rar.com/download.html?&L=0) | Sıkıştırılmış dosyaları açma |
+| [🔤 FiraCode](https://github.com/tonsky/FiraCode) | Kodlama fontu \(`ttf` dizinindekiler kurulacak\) |
+| [📂 Winrar](https://www.win-rar.com/download.html?&L=0) | Sıkıştırılmış dosyaları açma |
 | [📨 Rambox](https://rambox.pro/#pricing) | Mesajlaşma uygulamalarının yönetimi |
-| [🛠 Git](https://git-scm.com/downloads) | Proje versiyon yönetim uygulaması |
+| [🌳 Git](https://git-scm.com/downloads) | Proje versiyon yönetim uygulaması |
 | [🐙 Github Desktop](https://desktop.github.com/) | GitHub için yönetim uygulaması |
 | [🏢 Office](https://bit.ly/2kjVZe9) | MS Office |
 | [📂 Backup and Sync](https://www.google.com/drive/download/backup-and-sync/) | Drive backup |
-| [🖱 Numix Cursor Theme](https://drive.google.com/uc?id=1odtFIqAEfnvBH5Zk5ZefPnm77kZIxxQp) | Mouse teması |
-| [🖼 PaintNet](https://www.dotpdn.com/downloads/pdn.html) | Resim düzenleme uygulaması |
+| [✨ Numix Cursor Theme](https://drive.google.com/uc?id=1odtFIqAEfnvBH5Zk5ZefPnm77kZIxxQp) | Mouse teması |
+| [📐 PaintNet](https://www.dotpdn.com/downloads/pdn.html) | Resim düzenleme uygulaması |
 | [🍫 Chocolatey](https://chocolatey.org/) | Windows paket yöneticisi |
 | [💫 AutoHotkey](https://www.autohotkey.com/) | Kısayol oluşturucu ve scripting |
+| [📹 Zoom](https://zoom.us/) | Online , toplantı ve görüntülü konuşma uygulaması |
 
 ## 🍫 Chocolatey Paket Yöneticisi
 
