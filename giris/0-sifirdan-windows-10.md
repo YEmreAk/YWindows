@@ -52,6 +52,7 @@ Siteye girdiğinizde sırasıyla alttaki ayarları açamınız \| seçmeniz gere
 | Uygulama | Açıklama |
 | :--- | :--- |
 | [🔁 Easy Windows Switcher](https://neosmart.net/EasySwitch/) | ⎇ Alt " ile aynı pencereler arasında geçiş |
+| [📂 Clover](http://en.ejie.me/) | Dosya gezginine tarayıcılardaki gibi sekme ekleme |
 | [🌍 Chrome](https://www.google.com/chrome/) | Tarayıcı |
 | [🌍 Brave](https://brave.com/) | Reklamsız Chromium tabanlı tarayıcı |
 | [👨‍💻 VsCode](https://code.visualstudio.com/download) | Kodlama için editör |
