@@ -69,5 +69,5 @@ description: >-
 * `Shortcut` alnına tıklayıp klavyenizden bir tuşa basın
 * ✲ Ctrl + ⎇ Alt kombinasyonları ile kısayol oluşturabilirsiniz
 
-> [💫 AutoHotkey](../diger-notlar/0-autohotkey.md) ile istediğin kısayolları oluşturan scriptler yazabilirsin.
+> [💫 AutoHotkey](../diger-notlar/autohotkey.md) ile istediğin kısayolları oluşturan scriptler yazabilirsin.
 
