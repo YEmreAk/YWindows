@@ -68,6 +68,7 @@ Siteye girdiğinizde sırasıyla alttaki ayarları açamınız \| seçmeniz gere
 | [🍫 Chocolatey](https://chocolatey.org/) | Windows paket yöneticisi |
 | [💫 AutoHotkey](https://www.autohotkey.com/) | Kısayol oluşturucu ve scripting |
 | [📹 Zoom](https://zoom.us/) | Online , toplantı ve görüntülü konuşma uygulaması |
+| [🔄 AeroAdmin](https://www.aeroadmin.com/en/downloads.html) | Çok basit, hızlı uzak masaüstü bağlantısı |
 
 ## 🍫 Chocolatey Paket Yöneticisi
 
