@@ -10,7 +10,8 @@ description: Dünyada en sık kullanılan işletim sistemi olan Windows 10 hakk�
 
 * **Sağ üstteki** [**🔍 Arama Buton**](https://iuce.yemreak.com/?q=) **'unu kullanmayı asla ama asla ihmal etme**
   * Konuları veya konuyla alakalı kelimeleri ve terimleri aratabilirsin
-* [💖 Katkıda Bulunma Rehberi](https://app.gitbook.com/@yemreak/s/wiki/changelog) alanından projeye katkıda bulunabilirsin
+* 📋 İçeriklerin hepsi **sol üst köşedeki menünün** altındadır
+* [💖 Katkıda Bulunma Rehberi](https://wiki.yemreak.com/changelog) alanından projeye katkıda bulunabilirsin
 * Tüm emojiler [🚀 YEmoji](https://learn.yemreak.com/yonetim/yemoji) sözlüğüne uygun olarak seçilmektedir
 
 > Konuları öğrenmek için ideal yolları araştırdığımız [👨‍🏫 YLearn](https://learn.yemreak.com/) projesine bakmanda fayda var.
