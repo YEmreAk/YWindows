@@ -1,13 +1,26 @@
 # 🌇 Windows Subsystem for Linux \(WSL\)
 
-## Terminel Sesini Kapatma
+## 🚀 Windows Üzerinden Linux Kullanma
+
+`Turn Windows features on or off` ayarına girip, `Windows Subsystem for Linux` kutucuğunu işaretleyin.
+
+* Bu işlemle Linux subsystem olarak devreye girebilecektir
+* Ardından store üzerinden 🐧 [Ubuntu](https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6?activetab=pivot:overviewtab)'yu indirin \(ya da başka bir distro\)
+* Ubuntu'yu çalıştırıp gerekli kurulumları yapın, kullanıcı adı ve şifrenizi oluşturun
+* `bash` komutu ile yüklü olan Linux'un terminaline erişebilirsiniz
+
+{% hint style="success" %}
+[Windows Terminal \(Preview\)](https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701?activetab=pivot:overviewtab) ile Ubuntu terminalinizi yönetebilirsiniz
+{% endhint %}
+
+## 🔇 Terminel Sesini Kapatma
 
 * `sudo nano /etc/inputrc` ile girdi dosyasını yetki ile açın
 * `set bell-style none` satırını yorum satırı olmaktan kaldırın
 * ✲ Ctrl + O ile düzenlemeyi kaydedin
 * ✲ Ctrl + X ile çıkın
 
-## Linux Uygulamalarını WSL Üzerinde Çalıştırma
+## 🌄 Linux Uygulamalarını WSL Üzerinde Çalıştırma
 
 * İlk olarak \[vcxsrv\] dosyasını indirin \(~ 37.8MB\)
 * `echo "export DISPLAY=localhost:0.0" >> ~/.bashrc` komutunu yazın
@@ -16,7 +29,7 @@
   * `sudo service dbus start` [kaynak](https://github.com/Microsoft/WSL/issues/2016#issuecomment-435091497)
   * `export $(dbus-launch)` [kaynak](https://github.com/Microsoft/WSL/issues/2016#issuecomment-462595967)
 
-## WSL'i Ubuntu'nun Son Sürümüne Güncelleme
+## ✨ WSL'i Ubuntu'nun Son Sürümüne Güncelleme
 
 ```bash
 # Güncelleme ön hazırlığı
