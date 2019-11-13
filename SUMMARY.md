@@ -3,21 +3,21 @@
 * [🎇 Windows 10 Notları](README.md)
 * [👀 Neler değişti](changelog.md)
 
-## 🔗 Faydalı Bağlantılar
+## Faydalı Bağlantılar
 
 * [👓 Awesome Windows](faydali-baglantilar/awesome-windows.md)
 
-## 🚪 Giriş
+## Giriş
 
 * [🚀 Sıfırdan Windows 10](giris/sifirdan-windows-10.md)
 * [💘 Windows 10 Kısayolları](giris/windows-10-kisayollari.md)
 
-## 🧱 Windows 10 Temeli
+## Windows 10 Temeli
 
 * [🖤 Windows 10 Komut İstem \(CMD\) Notları](windows-10-temeli/windows-10-komut-istem-cmd-notlari.md)
 * [💨 Yavaşlayan Bilgisayarı Hızlandırma](windows-10-temeli/yavaslayan-bilgisayari-hizlandirma.md)
 
-## ✨ Diğer Notlar
+## Diğer Notlar
 
 * [💫 AutoHotkey](diger-notlar/autohotkey.md)
 * [🌠 Windows 10 Genel Notlar](diger-notlar/windows-10-genel-notlar.md)
