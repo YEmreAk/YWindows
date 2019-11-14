@@ -17,7 +17,7 @@ Terminal'den tam olarak zevk alabilmen için, o sıkıcı CMD'den vazgeçip yeni
 * Örn: "C:\Users\YEmre\AppData\Roaming\npm" PATH'i var ise, consolda "node" ile başlayan komutlar yazabilirsiniz. \(npm - Node package Manager\)
 * Bu işlem sanki yukarıdaki verilen dizinde komut istemini kullanıyormuşsunuz gibi işler.
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 ## Command Promp \(CMD\)
 

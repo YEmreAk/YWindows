@@ -46,7 +46,7 @@ description: 'Windows için denenmiş, sağ tık düzenleme programım'
 
 Kesinlikle **virüslü değildir**, windows tanımadığı `.exe` uzantılı dosyalara karşı bu tedbiri uyguluyor.
 
-![](../../.gitbook/assets/image%20%285%29.png)
+![](../../.gitbook/assets/image%20%286%29.png)
 
 ![](../../.gitbook/assets/image%20%282%29.png)
 

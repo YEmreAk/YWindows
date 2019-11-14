@@ -53,5 +53,5 @@ Veri yığılmasını 📚 engellemek için içeriği fazla olan 📈 bilgiler f
 
 **The** [**MIT License**](https://choosealicense.com/licenses/mit/) **© Yunus Emre Ak**
 
-![](.gitbook/assets/image%20%284%29.png)
+![](.gitbook/assets/image%20%285%29.png)
 
