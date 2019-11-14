@@ -52,6 +52,7 @@ Siteye girdiğinizde sırasıyla alttaki ayarları açamınız \| seçmeniz gere
 | Uygulama | Açıklama |
 | :--- | :--- |
 | [🔁 Easy Windows Switcher](https://neosmart.net/EasySwitch/) | ⎇ Alt " ile aynı pencereler arasında geçiş |
+| 📂 [QTabBar](http://qttabbar.wikidot.com/) | Dosya gezginini geliştirme, sekme ve ön izleme ekleme |
 | [📂 Clover](http://en.ejie.me/) | Dosya gezginine tarayıcılardaki gibi sekme ekleme |
 | [🌍 Chrome](https://www.google.com/chrome/) | Tarayıcı |
 | [🌍 Brave](https://brave.com/) | Reklamsız Chromium tabanlı tarayıcı |
@@ -112,7 +113,7 @@ choco install -y firacode winrar youtube-dl wget vscode github-desktop python3 g
   * **Windows explorer entegration** kapalı
   * **Use Visual Studio Code as Git's default editor**
   * **Use Git and optional Unix Tools from the Command Prompt**
-  * Bash komutlarını windows terminalde kullabiliriz
+  * Bash komutlarını windows terminalde kullanabiliriz
   * **Use default windows console window**
 * 🥧 VsCode kişiselleştirmemi [Settings Sync](https://marketplace.visualstudio.com/itemdetails?itemName=Shan.code-settings-sync) eklentisi yardımıyla [GitHub Gist](https://gist.github.com/yedhrab/4b13743a36cece5c3c22a5042897a83d)'im üzerinden çekebilirsin
 * Backup and Sync için, PC açıldığında otomatik olarak açılmasını iptal et
