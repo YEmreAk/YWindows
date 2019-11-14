@@ -105,7 +105,7 @@ ShowWin(windowName, url, mode=3)
 ```
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="İkon" %}
 ```bash
 ShowTray(windowName, url, mode=3)
 {
@@ -116,6 +116,35 @@ ShowTray(windowName, url, mode=3)
     else
         Run, %url%
 
+    return
+}
+```
+{% endtab %}
+
+{% tab title="İkon 2" %}
+```bash
+ShowTrayWithClass(className, url, mode=3)
+{
+    SetTitleMatchMode, %mode%
+    DetectHiddenWindows, On
+
+    found := False
+    WinGet, id, list, ahk_class %className%
+    Loop, %id%
+    {
+        this_ID := id%A_Index%
+        IfWinExist ahk_id %this_ID%
+        {
+            WinGetTitle, title
+            If (title = "")
+                continue
+
+            ToogleTrayWithId(this_ID, mode)
+            found := True
+        }
+    }
+    If (!found)
+        Run, %url%
     return
 }
 ```
