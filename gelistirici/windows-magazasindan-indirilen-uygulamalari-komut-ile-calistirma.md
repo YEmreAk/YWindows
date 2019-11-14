@@ -4,7 +4,7 @@ description: >-
   olacağını anlatır.
 ---
 
-# 👜 Windows Mağazasından İndirilen Uygulamaları Komut ile Çalıştırma
+# 👜 Mağaza Uygulamlarını Komutla Açma
 
 ## 🤓 Komutu Oluşturmak için Gerekli Bilgileri Alma
 

@@ -4,7 +4,7 @@ description: Üretkenliğinizi arttıracak etkileyici uygulamalar
 
 # 🌈 Faydalı Uygulamalar
 
-## 👜 Windows Store Üzerinden Uygulamaların Kurulumu
+## 👜 Windows Store Üzerinden
 
 | Uygulama | Açıklama |
 | :--- | :--- |
@@ -26,7 +26,7 @@ description: Üretkenliğinizi arttıracak etkileyici uygulamalar
 * [Sharex yapılandırma ayarlarım](https://drive.google.com/uc?id=18qJhuV9gOZYnRBdKklEA0UmMnwyJO8xV)
 * [Windows terminal yapılandırma ayarlarım](https://gist.github.com/yedhrab/748ed0216864c3ea0dea224d988c97cb)
 
-## 🌍 İnternet Üzerinden Uygulamaların Kurulumu
+## 🌍 İnternet Üzerinden
 
 | Uygulama | Açıklama |
 | :--- | :--- |
@@ -50,4 +50,19 @@ description: Üretkenliğinizi arttıracak etkileyici uygulamalar
 | [📹 Zoom](https://zoom.us/) | Online , toplantı ve görüntülü konuşma uygulaması |
 | [🔄 AeroAdmin](https://www.aeroadmin.com/en/downloads.html) | Çok basit, hızlı uzak masaüstü bağlantısı |
 | 👨‍💻 [Clink](https://mridgers.github.io/clink/) | Terminal üzerinde kod tamamlama \(linux gibi 🐧\) |
+
+### 📂 File Explorer'ı Geliştirme
+
+Alttaki işlem ile file explorer'a hem **tab** hem de **önizleme** fonksiyonu eklebilirsin.
+
+* İlk olarak [QTTabBar](http://qttabbar.wikidot.com/) sitesine girin
+* [QTabBar ver 1038](http://qttabbar.wdfiles.com/local--files/qttabbar/QTTabBar_1038.zip)'i indirin
+* Ardından update kurulumu olan [QTTabBar ver 1040](http://qttabbar.wdfiles.com/local--files/qttabbar/UpdateQTTabBar1040.zip) ile güncelleyin
+* Resimdeki gibi özelleştirebilirsin.
+
+![win\_qttabbar](../.gitbook/assets/win_qttabbar.png) ![win\_qtabbar\_autoplay](../.gitbook/assets/win_qtabbar_autoplay.png)
+
+{% hint style="info" %}
+🔗 İstersen [buradan](https://www.raymond.cc/blog/how-to-have-tabs-in-your-windows-explorer/) diğer seçenekleri de deneyebilirsin
+{% endhint %}
 

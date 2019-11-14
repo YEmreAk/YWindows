@@ -195,7 +195,7 @@ ShowFolder(folderName, folderPath)
 [👁‍🗨 Pencereyi Gizleme / Gösterme](ahk-scriptleri.md#pencereyi-gizleme-goesterme) alanını kullanır
 {% endhint %}
 
-## Hesap Makinesini Tray Icon Olarak Açma
+## 🎴 Hesap Makinesini Tray Icon Olarak Açma
 
 ```bash
 #Persistent
@@ -217,7 +217,7 @@ else
 Return
 ```
 
-## Aktif Olan Tüm Pencerelerin ID'sini Alma
+## 🧐 Aktif Olan Tüm Pencerelerin ID'sini Alma
 
 ```text
 WinGet, WindowID, List 

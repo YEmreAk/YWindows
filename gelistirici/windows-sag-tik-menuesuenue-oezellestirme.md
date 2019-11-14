@@ -18,7 +18,7 @@ Windows'ta komut istemini her hangi bir dosyaya tıkladığınızda sağ tık me
 
 ![Consolu Burada A&#xE7;](../.gitbook/assets/win_opencommandprompt.png)
 
-### 🧾 Kayıt Defteri Yapıladırması \(Regedit\)
+## 🧾 Kayıt Defteri Yapıladırması \(Regedit\)
 
 _Çalıştır_' a `regedit.exe` yazmanız veya _arama çubuğuna_ `regedit` yazmanız ve kayıt defterini **yönetici olarak** açmanız gerekmekte.
 

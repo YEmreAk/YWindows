@@ -1,6 +1,12 @@
-# 🧙‍ Windows'da Gizlenmiş GodMode
+---
+description: Üst düzey yetkileri görünür kılma
+---
+
+# 🧙‍ Gizlenmiş GodMode
 
 ![windows10](../.gitbook/assets/windows10.jpg)
+
+## 🔰 Başlamadan Önce
 
 Windows'da gizlenmiş bir GodMode olduğunu hiç duymuş muydunuz?
 

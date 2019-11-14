@@ -17,21 +17,22 @@
 * [📂 Önemli Dizinler](giris/oenemli-dizinler.md)
 * [👨‍💼 Paket Yöneticisi](giris/paket-yoeneticisi.md)
 
-## Windows 10 Temeli
+## Geliştirici
 
-* [🖤 Komut İstemi](windows-10-temeli/windows-10-komut-istem-cmd-notlari.md)
+* [🖤 Komut İstemi](gelistirici/windows-10-komut-istem-cmd-notlari.md)
+* [🌇 Windows Subsystem for Linux \(WSL\)](gelistirici/windows-subsystem-for-linux-wsl.md)
+* [🧱 Windows Sağ Tık Menüsünü Özelleştirme](gelistirici/windows-sag-tik-menuesuenue-oezellestirme.md)
+* [✨ Sağ Tık Menüsü Düzenleme Programım](gelistirici/sag-tik-menuesue-duezenleme-programim.md)
+* [💫 AutoHotkey](gelistirici/autohotkey/README.md)
+  * [🔰 AutoHotkey'e Giriş](gelistirici/autohotkey/autohotkeye-giris.md)
+  * [👨‍💻 AHK Scriptleri](gelistirici/autohotkey/ahk-scriptleri.md)
+* [👜 Mağaza Uygulamlarını Komutla Açma](gelistirici/windows-magazasindan-indirilen-uygulamalari-komut-ile-calistirma.md)
+* [⏹ RegEdit Ayarları](gelistirici/regedit-ayarlari.md)
+* [🧙‍ Gizlenmiş GodMode](gelistirici/windowsda-gizlenmis-godmode.md)
 
 ## Diğer Notlar
 
-* [💫 AutoHotkey](diger-notlar/autohotkey.md)
-* [👨‍💻 AHK Scriptleri](diger-notlar/ahk-scriptleri.md)
 * [🌠 Windows 10 Genel Notlar](diger-notlar/windows-10-genel-notlar.md)
 * [🌆 Windows Ortam Değişkenleri](diger-notlar/2-windows-ortam-degiskenleri.md)
-* [🧱 Windows Sağ Tık Menüsünü Özelleştirme](diger-notlar/windows-sag-tik-menuesuenue-oezellestirme.md)
-* [✨ Sağ Tık Menüsü Düzenleme Programım](diger-notlar/sag-tik-menuesue-duezenleme-programim.md)
 * [🤔 Windows 10 Gelişmiş](diger-notlar/windows-10-gelismis.md)
-* [🌇 Windows Subsystem for Linux \(WSL\)](diger-notlar/windows-subsystem-for-linux-wsl.md)
-* [👜 Windows Mağazasından İndirilen Uygulamaları Komut ile Çalıştırma](diger-notlar/windows-magazasindan-indirilen-uygulamalari-komut-ile-calistirma.md)
-* [🧙‍ Windows'da Gizlenmiş GodMode](diger-notlar/windowsda-gizlenmis-godmode.md)
-* [🟦 Registery Scriptlerim](diger-notlar/registery-scriptlerim.md)
 

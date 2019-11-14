@@ -114,19 +114,6 @@ Windows Registry Editor Version 5.00
 * Locate and click your account in the list. Click Edit.
 * Check the box next to Full Control.
 
-## File Explorer'ı Geliştirme
-
-Alttaki işlem ile file explorer'a hem **tab** hem de **önizleme** fonksiyonu eklebilirsin.
-
-* İlk olarak [QTTabBar](http://qttabbar.wikidot.com/) sitesine girin
-* [QTabBar ver 1038](http://qttabbar.wdfiles.com/local--files/qttabbar/QTTabBar_1038.zip)'i indirin
-* Ardından update kurulumu olan [QTTabBar ver 1040](http://qttabbar.wdfiles.com/local--files/qttabbar/UpdateQTTabBar1040.zip) ile güncelleyin
-* Resimdeki gibi özelleştirebilirsin
-
-> İstersen [buradan](https://www.raymond.cc/blog/how-to-have-tabs-in-your-windows-explorer/) diğer seçenekleri de deneyebilirsin.
-
-![win\_qttabbar](../.gitbook/assets/win_qttabbar.png) ![win\_qtabbar\_autoplay](../.gitbook/assets/win_qtabbar_autoplay.png)
-
 ## Windows 10 Composer
 
 > [Buradan](https://github.com/samhocevar/wincompose) detaylara erişebilirsin.

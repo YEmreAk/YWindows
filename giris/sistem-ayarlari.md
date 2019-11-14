@@ -15,11 +15,14 @@ description: Windows 10 hakkında faydalı ayarlar
 * ❖ Win tuşuna basıp, ayarlar resmine sağ tıklayıp **Bu listeyi özelleştir** üzerinden gözükecek klasörleri ayarlamak
 * 🎮 **Game Bar**'ı kapatmak
 
-## 🔑 Otomatik Olarak Oturum Açma
+## 🚶‍♂️ Otomatik Giriş Yapma
+
+Her defasında şifre girişi yapmaz istemezseniz, otomatik şifre girmek sizin için faydalı olacaktır.
 
 * İlk olarak ❖ Win + R ile `Run` alanını açın
 * Çıkan ekrana `netplwiz` yazın ve ENTER'a basın
 * Kutucuğun işaretini kaldırın ve gerekli alana şifrenizi girip `APPLY` butonuna basın
+* Şifrenizi girin ve onlayın
 
 ## 🍢 Görev Çubuğu Ayarları
 
@@ -30,4 +33,26 @@ description: Windows 10 hakkında faydalı ayarlar
 * VsCode
 * File Explorer
 * GitHub Desktop
+
+## 📂 Dizin Resmini Değiştirme
+
+Dizin resimleri içerisindeki `desktop.ini` dosyası ile değiştirilmekte
+
+* IconResource alanına `*.ico` resminizin yolunu verin
+* `0` değeri ilk resim anlamına gelmektedir, **değiştirmeyiniz**
+
+```text
+[.ShellClassInfo]
+IconResource=.\instabot.ico,0
+[ViewState]
+Mode=
+Vid=
+FolderType=Documents
+```
+
+## 🎌 Başlangıç Programlarını Düzenleme
+
+Görev yöneticisi **Startup** sekmesinden veya alttaki uygulama üzerinden yönetebilirsin.
+
+{% embed url="https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns" %}
 
