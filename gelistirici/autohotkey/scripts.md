@@ -4,6 +4,10 @@ description: Kişisel kod scriptlerim
 
 # 👨‍💻 AHK Scriptleri
 
+## 🚀 Kişisel Pencere Yöneticim
+
+{% embed url="https://github.com/YEmreAk/YScripts/blob/master/AHK%20Script/WinManager.ahk" %}
+
 ## 👨‍💼 Pencere Yönetimi
 
 {% tabs %}
@@ -47,13 +51,13 @@ ToggleWindow(windowName)
     WinGet, WinState, MinMax, %windowName%
     if (WinState == -1)
     {
-        WinRestore, %windowName%
-        WinActivate, %windowName%
+        WinRestore
+        WinActivate
     }
     else
     {
-        WinMinimize, %windowName%
-        WinMinimize, %windowName% ; Tureng için 2 tane pencere açılıyor
+        WinMinimize
+        WinMinimize ; Tureng için 2 tane pencere açılıyor
     }
 
     return
@@ -69,13 +73,13 @@ ToogleTray(windowName, mode=3)
     DetectHiddenWindows, Off
     IfWinNotExist, %windowName%
     {
-        WinShow, %windowName%
-        WinActivate, %windowName%
+        WinRestore
+        WinShow
+        WinActivate
     }
-
     else
     {
-        WinHide, %windowName%
+        WinHide
     }
 
     return
@@ -83,7 +87,7 @@ ToogleTray(windowName, mode=3)
 ```
 {% endtab %}
 
-{% tab title="" %}
+{% tab title="İkon Kısmına Alma" %}
 ```bash
 ToogleTrayWithId(ahkId, mode=3)
 {
@@ -91,12 +95,13 @@ ToogleTrayWithId(ahkId, mode=3)
     DetectHiddenWindows, Off
     IfWinNotExist, ahk_id %ahkId%
     {
-        WinShow, ahk_id %ahkId%
-        WinActivate, ahk_id %ahkId%
+        WinRestore
+        WinShow
+        WinActivate
     }
     else
     {
-        WinHide, ahk_id %ahkId%
+        WinHide
     }
 
     return
@@ -169,27 +174,6 @@ ShowTrayWithClass(className, url, mode=3)
 ```
 {% endtab %}
 {% endtabs %}
-
-{% hint style="warning" %}
-[👁‍🗨 Pencereyi Gizleme / Gösterme](scripts.md#pencereyi-gizleme-goesterme) alanını kullanır
-{% endhint %}
-
-## 📂 Dizin Açma
-
-```bash
-ShowFolder(folderName, folderPath)
-{
-
-    SetTitleMatchMode, 3
-    IfWinExist, %folderName%
-    {
-        ToggleWindow(windowName)
-    }
-    else
-        Run, explorer %folderPath%
-    return
-}
-```
 
 {% hint style="warning" %}
 [👁‍🗨 Pencereyi Gizleme / Gösterme](scripts.md#pencereyi-gizleme-goesterme) alanını kullanır
