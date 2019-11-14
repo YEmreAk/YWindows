@@ -20,6 +20,7 @@
 ## Diğer Notlar
 
 * [💫 AutoHotkey](diger-notlar/autohotkey.md)
+* [👨‍💻 AHK Scriptleri](diger-notlar/ahk-scriptleri.md)
 * [🌠 Windows 10 Genel Notlar](diger-notlar/windows-10-genel-notlar.md)
 * [🌆 Windows Ortam Değişkenleri](diger-notlar/2-windows-ortam-degiskenleri.md)
 * [🧱 Windows Sağ Tık Menüsünü Özelleştirme](diger-notlar/windows-sag-tik-menuesuenue-oezellestirme.md)
