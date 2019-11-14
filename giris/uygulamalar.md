@@ -16,6 +16,7 @@ description: Üretkenliğinizi arttıracak etkileyici uygulamalar
 | 🎴 Snip & Sketch | Ekran görüntsü yakalayıcı ❖ Win⇧ Shift S |
 | 📔 OneNote | Not alma uygulaması |
 | 🤝 Quick Assist | Ekran paylaşım ve yönetim aracı \(team viewer gibi\) |
+| 👨‍💻 Desktop App Converter | Uygulamları Store üzerinden paylaşmalık yapıya çevirme |
 
 {% hint style="warning" %}
 📢 Store üzerinden indirilen Python, Git Bash üzerinden kullanılamıyor \(`Permission denied`\). Bu yüzden store'dan değil web sitesinden indirilmeli.
