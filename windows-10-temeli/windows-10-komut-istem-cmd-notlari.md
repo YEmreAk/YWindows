@@ -1,4 +1,14 @@
-# 🖤 Windows 10 Komut İstem \(CMD\) Notları
+---
+description: Windows CMD ya da terminal notları
+---
+
+# 🖤 Komut İstemi
+
+## 🔰 Başlamadan Önce
+
+Terminal'den tam olarak zevk alabilmen için, o sıkıcı CMD'den vazgeçip yeni [Windows Terminal Preview](https://www.microsoft.com/tr-tr/p/windows-terminal-preview/9n0dx20hk701?activetab=pivot:overviewtab)'ı denemelisin.
+
+{% page-ref page="../giris/faydali-uygulamalar.md" %}
 
 ## Command Promp \(CMD\)
 

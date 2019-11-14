@@ -9,13 +9,17 @@
 
 ## Giriş
 
-* [🚀 Sıfırdan Windows 10](giris/sifirdan-windows-10.md)
-* [💘 Windows 10 Kısayolları](giris/windows-10-kisayollari.md)
+* [👷‍ Windows 10 Kurulumu](giris/windows-10-kurulumu.md)
+* [⚡ Bilgisayarı Hızlandırma](giris/yavaslayan-bilgisayari-hizlandirma.md)
+* [🌈 Faydalı Uygulamalar](giris/faydali-uygulamalar.md)
+* [💘 Kısayollar](giris/windows-10-kisayollari.md)
+* [🔨 Sistem Ayarları](giris/sistem-ayarlari.md)
+* [📂 Önemli Dizinler](giris/oenemli-dizinler.md)
+* [👨‍💼 Paket Yöneticisi](giris/paket-yoeneticisi.md)
 
 ## Windows 10 Temeli
 
-* [🖤 Windows 10 Komut İstem \(CMD\) Notları](windows-10-temeli/windows-10-komut-istem-cmd-notlari.md)
-* [💨 Yavaşlayan Bilgisayarı Hızlandırma](windows-10-temeli/yavaslayan-bilgisayari-hizlandirma.md)
+* [🖤 Komut İstemi](windows-10-temeli/windows-10-komut-istem-cmd-notlari.md)
 
 ## Diğer Notlar
 

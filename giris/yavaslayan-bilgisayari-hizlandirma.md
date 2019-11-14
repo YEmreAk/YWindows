@@ -1,4 +1,6 @@
-# 💨 Yavaşlayan Bilgisayarı Hızlandırma
+# ⚡ Bilgisayarı Hızlandırma
+
+## 🔰 Giriş
 
 Her birimiz farkındayız ki:
 
@@ -7,7 +9,9 @@ Her birimiz farkındayız ki:
 
 Bu sorunu kesin olarak engelleme çözümü sunamasam da size bilgisayarınızı hızlandıracak \(gözle görülür bir değişiklik olacak kadar\) bir kaç uygulama önerebilirim.
 
-> Uygulama indirmeden bir işlem yapacağım ben diyorsan, sayfanın en altına inmeni tavsiye ederim 😊
+{% hint style="success" %}
+🏃‍♂️ Uygulama indirmeden bir işlem yapacağım ben diyorsan, sayfanın en altına inmeni tavsiye ederim
+{% endhint %}
 
 ## 🧹 CCleaner
 

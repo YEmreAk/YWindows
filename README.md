@@ -22,11 +22,9 @@ Her sayfanın en altında bulunan memnuniyet anketi ile ✨ gelişime ortak olab
 
 ## ✨ En Güzel İçerikler
 
-{% page-ref page="giris/sifirdan-windows-10.md" %}
-
 {% page-ref page="giris/windows-10-kisayollari.md" %}
 
-{% page-ref page="windows-10-temeli/yavaslayan-bilgisayari-hizlandirma.md" %}
+{% page-ref page="giris/yavaslayan-bilgisayari-hizlandirma.md" %}
 
 ## 🚙 Diğer Özenle Hazırladığım Notlar
 

@@ -4,7 +4,7 @@ description: >-
   çalışır.
 ---
 
-# 💘 Windows 10 Kısayolları
+# 💘 Kısayollar
 
 ## 🌟 Sık Kullanılan Kısayollar
 
