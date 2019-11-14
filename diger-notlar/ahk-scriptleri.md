@@ -69,15 +69,34 @@ ToogleTray(windowName, mode=3)
     DetectHiddenWindows, Off
     IfWinNotExist, %windowName%
     {
-        WinRestore, %windowName%
         WinShow, %windowName%
         WinActivate, %windowName%
     }
 
     else
     {
-        WinMinimize, %windowName%
         WinHide, %windowName%
+    }
+
+    return
+}
+```
+{% endtab %}
+
+{% tab title="" %}
+```bash
+ToogleTrayWithId(ahkId, mode=3)
+{
+    SetTitleMatchMode, %mode%
+    DetectHiddenWindows, Off
+    IfWinNotExist, ahk_id %ahkId%
+    {
+        WinShow, ahk_id %ahkId%
+        WinActivate, ahk_id %ahkId%
+    }
+    else
+    {
+        WinHide, ahk_id %ahkId%
     }
 
     return
@@ -175,4 +194,26 @@ ShowFolder(folderName, folderPath)
 {% hint style="warning" %}
 [👁‍🗨 Pencereyi Gizleme / Gösterme](ahk-scriptleri.md#pencereyi-gizleme-goesterme) alanını kullanır
 {% endhint %}
+
+## Hesap Makinesini Tray Icon Olarak Açma
+
+```bash
+#Persistent
+Menu, Tray,Icon, Calc.exe, 1
+Menu, Tray, NoStandard
+Menu, Tray, Add, &Calculator, Calc
+Menu, Tray, Add, 
+Menu, Tray, Standard
+Menu, Tray, Default, &Calculator
+
+Return
+
+
+Calc:
+If WinExist("Calculator")
+   WinClose, Calculator
+else
+   Run, Calc.exe
+Return
+```
 
