@@ -20,9 +20,13 @@ description: Dünyada en sık kullanılan işletim sistemi olan Windows 10 hakk�
 Her sayfanın en altında bulunan memnuniyet anketi ile ✨ gelişime ortak olabilirsin.
 {% endhint %}
 
-## ✨ En Güzel İçerikler
+## ✨ En Popüler
+
+{% page-ref page="giris/uygulamalar.md" %}
 
 {% page-ref page="giris/kisayollar.md" %}
+
+{% page-ref page="giris/sistem.md" %}
 
 {% page-ref page="giris/hizlandirma.md" %}
 
