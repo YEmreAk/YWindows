@@ -217,3 +217,17 @@ else
 Return
 ```
 
+## Aktif Olan Tüm Pencerelerin ID'sini Alma
+
+```text
+WinGet, WindowID, List 
+Loop, % WindowID { 
+cWindow = % WindowID%A_Index% 
+WinGetTitle, Title, ahk_id %cWindow% 
+WinGetClass, Class, ahk_id %cWindow%
+Message=% Message "`n" Class "`t`t" Title 
+} 
+MsgBox, 64, List of Visible Windows, %Message% 
+ExitApp
+```
+
