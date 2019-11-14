@@ -61,7 +61,7 @@ Alttaki işlem ile file explorer'a hem **tab** hem de **ön izleme** fonksiyonu 
 * Ardından update kurulumu olan [QTTabBar ver 1040](http://qttabbar.wdfiles.com/local--files/qttabbar/UpdateQTTabBar1040.zip) ile güncelleyin
 * Resimdeki gibi özelleştirebilirsin.
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 ![](../.gitbook/assets/image%20%283%29.png)
 
