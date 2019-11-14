@@ -2,7 +2,7 @@
 description: "Windows 10 için faydalı uygulamaların hepsi \U0001F929"
 ---
 
-# 👓 Awesome Windows
+# 🥽 Awesome Windows
 
 ## 🗽 Açıklama
 
@@ -375,7 +375,7 @@ description: "Windows 10 için faydalı uygulamaların hepsi \U0001F929"
 
 Contributions are most welcome, please adhere to the [contribution guidelines](https://github.com/yedhrab/YWindows10/tree/0c092d489e79c475b0a1f5ae555a12a98465b295/0%20-%20Faydalı%20Kaynaklar/Contributing.md).
 
-[**⬆ back to top**](awesome-windows.md#applications)
+[**⬆ back to top**](awesome.md#applications)
 
 ## Backers
 

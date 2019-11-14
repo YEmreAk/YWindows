@@ -1,4 +1,4 @@
-# 🌠 Windows 10 Genel Notlar
+# 🌠 Genel Notlar
 
 ## Windows Özellikleri
 

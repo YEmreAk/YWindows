@@ -1,38 +1,31 @@
 # Table of contents
 
 * [🎇 Windows 10 Notları](README.md)
-* [👀 Neler değişti](changelog.md)
-
-## Faydalı Bağlantılar
-
-* [👓 Awesome Windows](faydali-baglantilar/awesome-windows.md)
+* [🥽 Awesome Windows](awesome.md)
 
 ## Giriş
 
-* [👷‍ Windows 10 Kurulumu](giris/windows-10-kurulumu.md)
-* [⚡ Bilgisayarı Hızlandırma](giris/yavaslayan-bilgisayari-hizlandirma.md)
-* [🌈 Faydalı Uygulamalar](giris/faydali-uygulamalar.md)
-* [💘 Kısayollar](giris/windows-10-kisayollari.md)
-* [🔨 Sistem Ayarları](giris/sistem-ayarlari.md)
-* [📂 Önemli Dizinler](giris/oenemli-dizinler.md)
-* [👨‍💼 Paket Yöneticisi](giris/paket-yoeneticisi.md)
+* [👷‍ Windows 10 Kurulumu](giris/kurulum.md)
+* [⚡ Bilgisayarı Hızlandırma](giris/hizlandirma.md)
+* [🌈 Faydalı Uygulamalar](giris/uygulamalar.md)
+* [💘 Kısayollar](giris/kisayollar.md)
+* [🔨 Sistem Ayarları](giris/sistem.md)
+* [📂 Önemli Dizinler](giris/dizinler.md)
+* [🌠 Genel Notlar](giris/genel.md)
 
 ## Geliştirici
 
-* [🖤 Komut İstemi](gelistirici/windows-10-komut-istem-cmd-notlari.md)
-* [🌇 Windows Subsystem for Linux \(WSL\)](gelistirici/windows-subsystem-for-linux-wsl.md)
-* [🧱 Windows Sağ Tık Menüsünü Özelleştirme](gelistirici/windows-sag-tik-menuesuenue-oezellestirme.md)
-* [✨ Sağ Tık Menüsü Düzenleme Programım](gelistirici/sag-tik-menuesue-duezenleme-programim.md)
+* [🖤 Komut İstemi](gelistirici/komut-istemi.md)
+* [👨‍💼 Paket Yöneticisi](gelistirici/paket-yoeneticisi.md)
+* [🌇 Windows Subsystem for Linux \(WSL\)](gelistirici/wsl.md)
+* [📋 Sağ Tık Menüsü](gelistirici/sag-tik-menuesue/README.md)
+  * [✨ Sağ Tık Menüsü Düzenleme Programım](gelistirici/sag-tik-menuesue/sag-tik-menuesue-duezenleme-programim.md)
+  * [✨ Sağ Tık Menüsü Düzenleme Programım](gelistirici/sag-tik-menuesue/sag-tik-menuesue-duezenleme-programim-2.md)
 * [💫 AutoHotkey](gelistirici/autohotkey/README.md)
-  * [🔰 AutoHotkey'e Giriş](gelistirici/autohotkey/autohotkeye-giris.md)
-  * [👨‍💻 AHK Scriptleri](gelistirici/autohotkey/ahk-scriptleri.md)
-* [👜 Mağaza Uygulamlarını Komutla Açma](gelistirici/windows-magazasindan-indirilen-uygulamalari-komut-ile-calistirma.md)
-* [⏹ RegEdit Ayarları](gelistirici/regedit-ayarlari.md)
-* [🧙‍ Gizlenmiş GodMode](gelistirici/windowsda-gizlenmis-godmode.md)
-
-## Diğer Notlar
-
-* [🌠 Windows 10 Genel Notlar](diger-notlar/windows-10-genel-notlar.md)
-* [🌆 Windows Ortam Değişkenleri](diger-notlar/2-windows-ortam-degiskenleri.md)
-* [🤔 Windows 10 Gelişmiş](diger-notlar/windows-10-gelismis.md)
+  * [🔰 AutoHotkey'e Giriş](gelistirici/autohotkey/giris.md)
+  * [👨‍💻 AHK Scriptleri](gelistirici/autohotkey/scripts.md)
+* [👜 Mağaza Uygulamlarını Komutla Açma](gelistirici/magaza-uygulamlarini-komutla-acma.md)
+* [⏹ RegEdit Ayarları](gelistirici/regedit.md)
+* [🧙‍ Gizlenmiş GodMode](gelistirici/godmode.md)
+* [🐞 Hata Notlarım](gelistirici/hata-notlarim.md)
 
