@@ -9,6 +9,13 @@
 Windows 10'da denenmiştir.
 {% endhint %}
 
+## 🌃 VsCode Eklentileri
+
+| Eklenti | Açıklama |
+| :--- | :--- |
+| 🚀 [AutoHotkey++](https://marketplace.visualstudio.com/items?itemName=vinnyjames.vscode-autohotkey-vj) | Renklendirme, kod önerileri ve snippets |
+| 👨‍💼 [AutoHotkey Manager](https://marketplace.visualstudio.com/items?itemName=Denis-net.vscode-ahk-manager) | Derleme, çalıştırma, durdurma butonları ekler |
+
 ## 🍍 Kısayol Tanımlamaları
 
 | Symbol | Description |
