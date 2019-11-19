@@ -13,6 +13,12 @@
 [Windows Terminal \(Preview\)](https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701?activetab=pivot:overviewtab) ile Ubuntu terminalinizi yönetebilirsiniz
 {% endhint %}
 
+## 🧹 WSL Üzerindeki Linux'u Sıfırlama
+
+* Arama yerine **Ubuntu** \(veya hangi distro yüklü ise\) yazın
+* **App settings** yazısına tıklayın
+* Çıkan ekranda **Reset** butonuna tıklayarak sıfırlayın
+
 ## 🎨 Terminal Teması
 
 ![](../.gitbook/assets/image%20%287%29.png)
