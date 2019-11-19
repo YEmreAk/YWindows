@@ -1,3 +1,7 @@
+---
+description: Windows üzerinde Linux işletim sistemini terminal aracılığıyla kullanma
+---
+
 # 🌇 Windows Subsystem for Linux \(WSL\)
 
 ## 🚀 Windows Üzerinden Linux Kullanma
