@@ -1,13 +1,17 @@
 # Table of contents
 
 * [🎇 Windows 10 Notları](README.md)
-* [🥽 Awesome Windows](awesome.md)
+
+## Harici Kaynaklar <a id="harici"></a>
+
+* [🥽 Awesome Windows](harici/awesome.md)
+* [👷‍ Windows 10 Kurulumu](kurulum.md)
+* [⚡ Bilgisayarı Hızlandırma](hizlandirma.md)
+* [🌈 Faydalı Uygulamalar](uygulamalar.md)
+* [📂 Dosya Gezginini Geliştirme](dosya-gezginini-gelistirme.md)
 
 ## Giriş
 
-* [👷‍ Windows 10 Kurulumu](giris/kurulum.md)
-* [⚡ Bilgisayarı Hızlandırma](giris/hizlandirma.md)
-* [🌈 Faydalı Uygulamalar](giris/uygulamalar.md)
 * [💘 Kısayollar](giris/kisayollar.md)
 * [🔨 Sistem Ayarları](giris/sistem.md)
 * [📂 Önemli Dizinler](giris/dizinler.md)

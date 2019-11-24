@@ -22,13 +22,13 @@ Her sayfanın en altında bulunan memnuniyet anketi ile ✨ gelişime ortak olab
 
 ## ✨ En Popüler
 
-{% page-ref page="giris/uygulamalar.md" %}
+{% page-ref page="uygulamalar.md" %}
 
 {% page-ref page="giris/kisayollar.md" %}
 
 {% page-ref page="giris/sistem.md" %}
 
-{% page-ref page="giris/hizlandirma.md" %}
+{% page-ref page="hizlandirma.md" %}
 
 ## 🌍 Tüm YEmreAk İçerikleri
 
