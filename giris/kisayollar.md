@@ -69,5 +69,9 @@ description: >-
 * `Shortcut` alnına tıklayıp klavyenizden bir tuşa basın
 * ✲ Ctrl + ⎇ Alt kombinasyonları ile kısayol oluşturabilirsiniz
 
-> [💫 AutoHotkey]() ile istediğin kısayolları oluşturan scriptler yazabilirsin.
+> [💫 AutoHotkey](../gelistirici/autohotkey/) ile istediğin kısayolları oluşturan scriptler yazabilirsin.
+
+## 📋 Tüm Kısayolların Listesi
+
+{% embed url="https://support.microsoft.com/tr-tr/help/12445/windows-keyboard-shortcuts" %}
 
