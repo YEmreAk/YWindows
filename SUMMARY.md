@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🎇 Windows 10 Notları](README.md)
+* [🎇 YWindows 10](README.md)
 
 ## Harici Kaynaklar <a id="harici"></a>
 
