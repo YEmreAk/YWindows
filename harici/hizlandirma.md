@@ -15,7 +15,7 @@ Bu sorunu kesin olarak engelleme çözümü sunamasam da size bilgisayarınızı
 
 ## 🧹 CCleaner
 
-![ccleaner](.gitbook/assets/ccleaner.png)
+![ccleaner](../.gitbook/assets/ccleaner.png)
 
 Bilgisayar bakım aracı olan [CCleaner](https://www.ccleaner.com/ccleaner):
 
@@ -27,7 +27,7 @@ gibi faydalar sunmaktadır.
 
 ## 🧱 Defragler
 
-![defragler](.gitbook/assets/defragler.png)
+![defragler](../.gitbook/assets/defragler.png)
 
 Disk bakım aracı olan Defraggler:
 
@@ -58,5 +58,5 @@ gibi faydalar sunmaktadır.
 
 > Bilgisayara zararı yoktur.
 
-![Programs&#x131;z H&#x131;zland&#x131;rma1](.gitbook/assets/win10_fast1.png) ![Programs&#x131;z H&#x131;zland&#x131;rma2](.gitbook/assets/win10_fast2.png) ![Programs&#x131;z H&#x131;zland&#x131;rma3](.gitbook/assets/win10_fast3.png) ![Programs&#x131;z H&#x131;zland&#x131;rma4](.gitbook/assets/win10_fast4.png)
+![Programs&#x131;z H&#x131;zland&#x131;rma1](../.gitbook/assets/win10_fast1.png) ![Programs&#x131;z H&#x131;zland&#x131;rma2](../.gitbook/assets/win10_fast2.png) ![Programs&#x131;z H&#x131;zland&#x131;rma3](../.gitbook/assets/win10_fast3.png) ![Programs&#x131;z H&#x131;zland&#x131;rma4](../.gitbook/assets/win10_fast4.png)
 

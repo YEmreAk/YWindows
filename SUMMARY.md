@@ -5,10 +5,10 @@
 ## Harici Kaynaklar <a id="harici"></a>
 
 * [🥽 Awesome Windows](harici/awesome.md)
-* [👷‍ Windows 10 Kurulumu](kurulum.md)
-* [⚡ Bilgisayarı Hızlandırma](hizlandirma.md)
-* [🌈 Faydalı Uygulamalar](uygulamalar.md)
-* [📂 Dosya Gezginini Geliştirme](dosya-gezginini-gelistirme.md)
+* [👷‍ Windows 10 Kurulumu](harici/kurulum.md)
+* [⚡ Bilgisayarı Hızlandırma](harici/hizlandirma.md)
+* [🌈 Faydalı Uygulamalar](harici/uygulamalar.md)
+* [📂 Dosya Gezginini Geliştirme](harici/dosya-gezginini-gelistirme.md)
 
 ## Giriş
 

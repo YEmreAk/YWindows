@@ -36,6 +36,7 @@ description: Üretkenliğinizi arttıracak etkileyici uygulamalar
 | 📂 QTabBar | Dosya gezginini geliştirme, sekme ve ön izleme ekleme | [📃](dosya-gezginini-gelistirme.md) |
 | 📂 Winrar | Sıkıştırılmış dosyaları açma | [🌍](https://www.win-rar.com/download.html?&L=0) [🍫](https://chocolatey.org/packages/winrar) |
 | 🏢 Office | MS Office | [🌍](https://bit.ly/2kjVZe9) |
+| 💫 Feem v4 - Share Files Offline | Cihazlar arası veri paylaşımı | [👜](https://www.microsoft.com/tr-tr/p/feem-v4-share-files-offline/9wzdncrdsfg0) |
 | 📐 PaintNet | Resim düzenleme uygulaması | [🌍](https://www.dotpdn.com/downloads/pdn.html) |
 | 📂 Backup and Sync | Drive backup | [🌍](https://www.google.com/drive/download/backup-and-sync/) |
 | 🎴 Snip & Sketch | Ekran görüntüsü yakalayıcı ❖ Win⇧ Shift S | 📦 |
