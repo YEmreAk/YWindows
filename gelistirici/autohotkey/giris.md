@@ -16,7 +16,7 @@ Windows 10'da denenmiştir.
 | 🚀 [AutoHotkey++](https://marketplace.visualstudio.com/items?itemName=vinnyjames.vscode-autohotkey-vj) | Renklendirme, kod önerileri ve snippets |
 | 👨‍💼 [AutoHotkey Manager](https://marketplace.visualstudio.com/items?itemName=Denis-net.vscode-ahk-manager) | Derleme, çalıştırma, durdurma butonları ekler |
 
-## 🍍 Kısayol Tanımlamaları
+## ✨ Kısayol Tanımlamaları
 
 | Symbol | Description |
 | :--- | :--- |
@@ -25,20 +25,6 @@ Windows 10'da denenmiştir.
 | `^` | Control |
 | `+` | Shift |
 | `&` | An ampersand may be used between any two keys or mouse buttons to combine them into a custom hotkey. |
-
-> [Kısayol Tanımlamaları](https://www.autohotkey.com/docs/Tutorial.htm#s21)
->
-> ## Hızlı Notlar
-
-| Komut | Açıklama |
-| :--- | :--- |
-| [SetTitleMatchMode](https://www.autohotkey.com/docs/commands/SetTitleMatchMode.htm) | Pencere başlığındaki isimlerin alınışı |
-
-## 👀 Pencere Açma, Açıksa Gizleme
-
-{% embed url="https://gist.github.com/61ca23a3414ae0c0043ff61ffcfdff12.git" %}
-
-> [Minimize and Restore Window with one command](https://autohotkey.com/board/topic/49207-minimize-and-restore-window-with-one-command/?p=306623)
 
 ## 🔗 Harici Bağlantılar
 
