@@ -13,4 +13,5 @@
 
 * 🔢 Diziler **1** den başlıyor \(😥😥😥\)
 * 👮‍♂️ `WinRestore`, `WinShow` vb. komutları sakın yalnız kullanmayın
+* 👁‍🗨 `:=` ile atama işlemleri `=` ile sayı ve string girme işlemleri yapılır
 
