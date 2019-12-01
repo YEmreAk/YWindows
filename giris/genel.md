@@ -1,5 +1,13 @@
 # 🌠 Genel Notlar
 
+## ♐ Ekranı Projeksiyon Olarak Kullanma
+
+* Ayarlar \(Settings\)
+* Bu cihaza yayınla \(Projecting on This PC\)
+* Cihazların sizin üzerinde yayın yapmasına izin verin
+  * Güvenli ağlarda izin ver
+  * Available everywhere on secure networks
+
 ## Windows Özellikleri
 
 > Aramaya alanına `Turn Windows Feature On or Off` veya `Windows Özelliklerini Aç veya Kapat` yazarak erişebilirsin.
