@@ -78,3 +78,18 @@ Return
 👀 Detaylı bilgi için [Menu](https://www.autohotkey.com/docs/commands/Menu.htm) alanına bakabilirsin
 {% endhint %}
 
+## 🌃 Ortam Değişkenleri
+
+* 📉 Ortam değişkenleri direkt olarak kullanmak verimliliği düşürür
+* 👮‍♀️`#NoEnv` kodu ile scriptlerinize başlayın
+* 🛒 Ortam değişkenleri işlemleri için `EnvGet` ve `EnvSet` yapısı kullanılır
+
+```haskell
+EnvGet, userprofile, UserProfile
+path = %userprofile%Documents
+```
+
+{% hint style="info" %}
+👀 Detaylı bilgi için [NoEnv](https://www.autohotkey.com/docs/commands/_NoEnv.htm), [EnvGet](https://www.autohotkey.com/docs/commands/EnvGet.htm) ve [EnvSet](https://www.autohotkey.com/docs/commands/EnvSet.htm) alanına bakabilirsin
+{% endhint %}
+
