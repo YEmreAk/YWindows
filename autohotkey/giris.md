@@ -1,8 +1,13 @@
+---
+description: Windows scripting dilini tanıyalım
+---
+
 # 🔰 AutoHotkey'e Giriş
 
 ## 🎈 Başlamadan Önce
 
-* Çok stabil çalışmaktadır, windows'un kendi içindeki kısayol sisteminden daha verimlidir
+* AutoHotkey \(AHK\) sayesinde kişisel kısayollarınızı ve uygulamalarınızı oluşturabilirsiniz
+* Çok **stabil** çalışmaktadır, Windows'un kendi içindeki kısayol sisteminden daha verimlidir
 * VsCode üzerinden script yazacaksanız [AutoHotkey](https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-autohotkey) eklentisini indirmeniz tavsiye edilir
 
 {% hint style="success" %}
