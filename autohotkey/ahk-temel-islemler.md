@@ -7,6 +7,10 @@
 * 💠 Değişkenlerin varsayılan komutlar içerisindeki kullanımı `%değişken%` şeklindedir
 * ✨ Diğer kullanımlarda normal kullanabilirsiniz
 
+{% hint style="info" %}
+👀 Detaylar için [Variable & Expression](https://www.autohotkey.com/docs/Variables.htm) alanına bakabilirsin
+{% endhint %}
+
 ## 👮‍♂️ Koşullar
 
 * 🧱 Koşullardaki temel kullanım `if`, `else if` ve `else` şeklindedir

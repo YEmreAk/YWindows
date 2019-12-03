@@ -1,4 +1,4 @@
-# ✨ Sağ Tık Menüsü Düzenleme Programım
+# 👨‍🔧 Sağ Tık Menüsü Düzenleme
 
 ## 🏃‍ Hızlı Yöntem
 
