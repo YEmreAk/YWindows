@@ -4,7 +4,7 @@ description: >-
   çalışır.
 ---
 
-# 💘 Kısayollar
+# 💘 Varsayılan Kısayollar
 
 ## 🌟 Sık Kullanılan Kısayollar
 

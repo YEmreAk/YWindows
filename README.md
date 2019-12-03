@@ -24,7 +24,7 @@ Her sayfanın en altında bulunan memnuniyet anketi ile ✨ gelişime ortak olab
 
 {% page-ref page="windowsa-giris/uygulamalar.md" %}
 
-{% page-ref page="kisayollar-1/kisayollar.md" %}
+{% page-ref page="kisayollar/varsayilan.md" %}
 
 {% page-ref page="windowsa-giris/sistem.md" %}
 
