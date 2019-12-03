@@ -1,0 +1,80 @@
+# 🧱 AHK Temel İşlemler
+
+## 💎 Değişkenler
+
+* ✨ Değişkenlerin atama işlemleri `:=` ile yapılır
+* 📢  \(`=` ile string ya da sayı atanır\)
+* 💠 Değişkenlerin varsayılan komutlar içerisindeki kullanımı `%değişken%` şeklindedir
+* ✨ Diğer kullanımlarda normal kullanabilirsiniz
+
+## 👮‍♂️ Koşullar
+
+* 🧱 Koşullardaki temel kullanım `if`, `else if` ve `else` şeklindedir
+* 💡 Eğer tek değişkeni kontrol edecekseniz `()` kullanmanıza gerek yoktur
+* 🔱 Eğer tek satır yazacaksanız `{}` kullanımına gerek yoktur
+
+```haskell
+if WinActive("ahk_id" . ahkID) {
+    if hide
+        SendActiveWindowToTray()
+    
+    RestoreFocus()
+} else {
+    ActivateWindowWithID(ahkID)
+}
+```
+
+## 🚄 Diziler
+
+* 📢 Diziler **1** den başlar \(😥\)
+* 🚅 Dizi tanımlamaları `arr := []` şeklindedir
+* 🎳 Dizi içerisinde obje olacaksa `arrObj := [{}]` şeklinde olmalıdır
+* ‍🛒 Dizilerden elaman alımı `arr.1`, `arr[1]`, `arr[help]` veya `arr.help` şeklindedir
+
+{% hint style="info" %}
+👀 Diziler hakkında detaylı bilgi için [AHK - Arrays](https://www.autohotkey.com/docs/misc/Arrays.htm) alanına bakabilirsin
+{% endhint %}
+
+## 💡 Ekrana Metin Bastırma
+
+* 👁‍🗨 Ekrana metin gösterme `MsgBox` ile yapılır
+* ✨ Eğer değişken kullanmak istiyorsanız `MsgBox, %` komutunu kullanın
+
+## 👨‍💼 Pencere Yönetimi
+
+* 🌟 `WinActive(..)` ile aktiflik kontrolü 
+* ⭐ `WinExist(...)` ile varlık kontrolü 
+
+```haskell
+if WinExist(windowName) {
+    WinGet, ahkID, ID, %windowName%
+    ToggleWindowWithID(ahkID, mode, True)
+} else {
+    RunUrl(url)
+}
+```
+
+{% hint style="info" %}
+👀 Detaylı bilgi için [WinActive](https://www.autohotkey.com/docs/commands/WinActivate.htm) ve [WinExist](https://www.autohotkey.com/docs/commands/WinExist.htm#function) alanına bakabilirsin
+{% endhint %}
+
+## 🚀 Tray Menü Oluşturma
+
+* 🦄 `#Persistent` ile tekrarlı menüleri engelleyebilirsin
+* 💎 Menu olaylarında kullanabileceğin değişkenlere [Hotkeys, Hotstrings, and Custom Menu Items](https://www.autohotkey.com/docs/Variables.htm#h) alanından bakabilirsin
+
+```haskell
+#Persistent
+Menu, Tray, NoStandard
+Menu, Tray, Add, YEmreAk, IconClicked
+Menu, Tray, Default, %mainTitle%
+
+IconClicked:
+    Run, https://www.yemreak.com
+Return
+```
+
+{% hint style="info" %}
+👀 Detaylı bilgi için [Menu](https://www.autohotkey.com/docs/commands/Menu.htm) alanına bakabilirsin
+{% endhint %}
+

@@ -28,6 +28,7 @@
   * [✨ Sağ Tık Menüsü Düzenleme Programım](gelistirici/sag-tik-menuesue/sag-tik-menuesue-duezenleme-programim-2.md)
 * [💫 AutoHotkey](gelistirici/autohotkey/README.md)
   * [🔰 AutoHotkey'e Giriş](gelistirici/autohotkey/giris.md)
+  * [🧱 AHK Temel İşlemler](gelistirici/autohotkey/ahk-temel-islemler.md)
   * [🎌 AHK Tavsiyelerim](gelistirici/autohotkey/ahk-tavsiyelerim.md)
   * [👨‍💻 AHK Scriptleri](gelistirici/autohotkey/scripts.md)
 * [👜 Mağaza Uygulamlarını Komutla Açma](gelistirici/magaza-uygulamlarini-komutla-acma.md)
