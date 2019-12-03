@@ -97,3 +97,24 @@ EnvGet, userprofile, UserProfile
 path = %userprofile%Documents
 ```
 
+## 📂 Dosya İşlemleri
+
+| 💠 Metot | 📑 Açıklama |
+| :--- | :--- |
+| [FileCreateDir](https://www.autohotkey.com/docs/commands/FileCreateDir.htm) | Dizin oluşturma |
+| [FileInstall](https://www.autohotkey.com/docs/commands/FileInstall.htm) | Exe'ye dosya yükleme |
+| [Special Variables Available Inside a File-Loop](https://www.autohotkey.com/docs/commands/LoopFile.htm#Special_Variables_Available_Inside_a_File-Loop) | Dosya Değişkenleri |
+
+```haskell
+DIR_NAME = %A_AppData%\YHotkeys
+FileCreateDir,  %DIR_NAME%
+FileInstall, .\res\ylogo.ico, %DIR_NAME%\ylogo.ico, 1
+FileInstall, .\res\default.ico, %DIR_NAME%\default.ico, 1
+FileInstall, .\res\clear.ico, %DIR_NAME%\clear.ico, 1
+FileInstall, .\res\close.ico, %DIR_NAME%\close.ico, 1
+```
+
+{% hint style="warning" %}
+📢 Source parametresinde değişken veya özel karakter kullanamazsın
+{% endhint %}
+
