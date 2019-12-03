@@ -1,0 +1,2 @@
+# 🐧 Windows'ta Linux
+

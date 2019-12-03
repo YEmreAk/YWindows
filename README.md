@@ -22,13 +22,13 @@ Her sayfanın en altında bulunan memnuniyet anketi ile ✨ gelişime ortak olab
 
 ## ✨ En Popüler
 
-{% page-ref page="harici/uygulamalar.md" %}
+{% page-ref page="windowsa-giris/uygulamalar.md" %}
 
-{% page-ref page="giris/kisayollar.md" %}
+{% page-ref page="kisayollar-1/kisayollar.md" %}
 
-{% page-ref page="giris/sistem.md" %}
+{% page-ref page="windowsa-giris/sistem.md" %}
 
-{% page-ref page="harici/hizlandirma.md" %}
+{% page-ref page="verimlilik-notlarim/hizlandirma.md" %}
 
 ## 🌍 Tüm YEmreAk İçerikleri
 

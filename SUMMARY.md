@@ -1,40 +1,36 @@
 # Table of contents
 
 * [🎇 YWindows 10](README.md)
-
-## Harici Kaynaklar <a id="harici"></a>
-
-* [🥽 Awesome Windows](harici/awesome.md)
-* [👷‍ Windows 10 Kurulumu](harici/kurulum.md)
-* [⚡ Bilgisayarı Hızlandırma](harici/hizlandirma.md)
-* [🌈 Faydalı Uygulamalar](harici/uygulamalar.md)
-* [📂 Dosya Gezginini Geliştirme](harici/dosya-gezginini-gelistirme.md)
-
-## Giriş
-
-* [💘 Kısayollar](giris/kisayollar.md)
-* [🔨 Sistem Ayarları](giris/sistem.md)
-* [📂 Önemli Dizinler](giris/dizinler.md)
-* [🌠 Genel Notlar](giris/genel.md)
-* [👨‍💻 Windows Yönetim Scriptim](https://github.com/yedhrab/YScripts/tree/master/AHK%20Script)
-
-## Geliştirici
-
-* [🖤 Komut İstemi](gelistirici/komut-istemi.md)
-* [👨‍💼 Paket Yöneticisi](gelistirici/paket-yoeneticisi.md)
-* [🌇 Windows Subsystem for Linux \(WSL\)](gelistirici/wsl.md)
-* [📋 Sağ Tık Menüsü](gelistirici/sag-tik-menuesue/README.md)
-  * [✨ Sağ Tık Menüsü Düzenleme Programım](gelistirici/sag-tik-menuesue/sag-tik-menuesue-duezenleme-programim.md)
-  * [✨ Sağ Tık Menüsü Düzenleme Programım](gelistirici/sag-tik-menuesue/sag-tik-menuesue-duezenleme-programim-2.md)
-* [💫 AutoHotkey](gelistirici/autohotkey/README.md)
-  * [🔰 AutoHotkey'e Giriş](gelistirici/autohotkey/giris.md)
-  * [🧱 AHK Temel İşlemler](gelistirici/autohotkey/ahk-temel-islemler.md)
-  * [🎌 AHK Tavsiyelerim](gelistirici/autohotkey/ahk-tavsiyelerim.md)
-  * [👨‍💻 AHK Scriptleri](gelistirici/autohotkey/scripts.md)
-* [👜 Mağaza Uygulamlarını Komutla Açma](gelistirici/magaza-uygulamlarini-komutla-acma.md)
-* [⏹ RegEdit Ayarları](gelistirici/regedit.md)
-* [🧙‍ Gizlenmiş GodMode](gelistirici/godmode.md)
-* [🐞 Hata Notlarım](gelistirici/hata-notlarim.md)
+* [🔰 Windows'a Giriş](windowsa-giris/README.md)
+  * [👷‍ Windows 10 Kurulumu](windowsa-giris/kurulum.md)
+  * [🌈 Faydalı Uygulamalar](windowsa-giris/uygulamalar.md)
+  * [🔨 Sistem Ayarları](windowsa-giris/sistem.md)
+  * [📂 Önemli Dizinler](windowsa-giris/dizinler.md)
+  * [🌠 Genel Notlar](windowsa-giris/genel.md)
+* [💞 Kısayollar](kisayollar-1/README.md)
+  * [👨‍💻 Windows Yönetim Scriptim](https://github.com/yedhrab/YScripts/tree/master/AHK%20Script)
+  * [💘 Kısayollar](kisayollar-1/kisayollar.md)
+* [🚀 Verimlilik Notlarım](verimlilik-notlarim/README.md)
+  * [⚡ Bilgisayarı Hızlandırma](verimlilik-notlarim/hizlandirma.md)
+  * [📂 Dosya Gezginini Geliştirme](verimlilik-notlarim/dosya-gezginini-gelistirme.md)
+  * [👨‍💼 Paket Yöneticisi](verimlilik-notlarim/paket-yoeneticisi.md)
+* [👨‍💻 Geliştirici Notlarım](gelistirici-notlarim/README.md)
+  * [🖤 Komut İstemi](gelistirici-notlarim/komut-istemi.md)
+  * [📋 Sağ Tık Menüsü](gelistirici-notlarim/sag-tik-menuesue/README.md)
+    * [✨ Sağ Tık Menüsü Düzenleme Programım](gelistirici-notlarim/sag-tik-menuesue/sag-tik-menuesue-duezenleme-programim.md)
+    * [✨ Sağ Tık Menüsü Düzenleme Programım](gelistirici-notlarim/sag-tik-menuesue/sag-tik-menuesue-duezenleme-programim-2.md)
+  * [⏹ RegEdit Ayarları](gelistirici-notlarim/regedit.md)
+  * [👜 Mağaza Uygulamlarını Komutla Açma](gelistirici-notlarim/magaza-uygulamlarini-komutla-acma.md)
+  * [🧙‍ Gizlenmiş GodMode](gelistirici-notlarim/godmode.md)
+* [🐧 Windows'ta Linux](windowsta-linux/README.md)
+  * [🌇 Windows Subsystem for Linux \(WSL\)](windowsta-linux/wsl.md)
+  * [🐞 Hata Notlarım](windowsta-linux/hata-notlarim.md)
+* [💫 AutoHotkey](autohotkey/README.md)
+  * [🔰 AutoHotkey'e Giriş](autohotkey/giris.md)
+  * [🧱 AHK Temel İşlemler](autohotkey/ahk-temel-islemler.md)
+  * [🎌 AHK Tavsiyelerim](autohotkey/ahk-tavsiyelerim.md)
+  * [👨‍💻 AHK Scriptleri](autohotkey/scripts.md)
+* [🥽 Awesome Windows](awesome.md)
 
 ## Derlenmiş Çalışmalarım
 
