@@ -16,6 +16,15 @@
 * 👨‍💻 **Gelişmiş Sistem Seçenekleri** alanından
 * 🌃 **Ortam değişkenleri** seçeneğini seçin
 
+## 🌆 Path Düzenleme
+
+* ✨`PATH` Komut isteminde çalışacak kodların hangi dizinleri ele aldığını ifade eder. 
+* ⭐ `%APPDATA%\npm`PATH'i var ise, consolda `node` ile başlayan komutlar yazabilirsiniz. 
+  * `npm` - Node package Manager
+* 📂 Bu işlem sanki yukarıdaki verilen dizinde komut istemini kullanıyormuşsunuz gibi işler.
+
+![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LrO7YGsAzYl_KF41qg_%2F-Lte9DJM19KmjJXaVl4q%2F-Lte9kA09qqEg2PLJZtk%2Fimage.png?alt=media&token=5627e6bf-103e-403e-be43-3092805628c8)
+
 ## 🌟 Sık Kullanılanlar
 
 | 💎 Değişken | 📑 Açıklama |

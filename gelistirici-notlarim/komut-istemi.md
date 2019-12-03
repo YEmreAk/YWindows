@@ -10,15 +10,6 @@ Terminal'den tam olarak zevk alabilmen için, o sıkıcı CMD'den vazgeçip yeni
 
 {% page-ref page="../windowsa-giris/uygulamalar.md" %}
 
-## 🌆 Ortam Değişkenlerini Düzenleme
-
-`PATH` Komut isteminde çalışacak kodların hangi dizinleri ele aldığını ifade eder.
-
-* Örn: "C:\Users\YEmre\AppData\Roaming\npm" PATH'i var ise, consolda "node" ile başlayan komutlar yazabilirsiniz. \(npm - Node package Manager\)
-* Bu işlem sanki yukarıdaki verilen dizinde komut istemini kullanıyormuşsunuz gibi işler.
-
-![](../.gitbook/assets/image%20%284%29.png)
-
 ## Command Promp \(CMD\)
 
 Terminalde dosya isimlerinin **sonu veya başı sayı içerirse** çeşitli sorunlara neden olmakta.
