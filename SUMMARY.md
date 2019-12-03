@@ -32,6 +32,7 @@
   * [🧱 AHK Temel İşlemler](autohotkey/ahk-temel-islemler.md)
   * [🎌 AHK Tavsiyelerim](autohotkey/ahk-tavsiyelerim.md)
   * [👨‍💻 AHK Scriptleri](autohotkey/scripts.md)
+  * [💞 YHotkeys](autohotkey/yhotkeys.md)
 * [🥽 Awesome Windows](awesome.md)
 
 ## Derlenmiş Çalışmalarım

@@ -17,3 +17,7 @@
 * 👀 Komutlardaki `,` kullanımına dikkat edin
 * 💫 For döngülerinin içerisinde döngüde kullandığınız dizinin elemanlarını silmeyin
 
+## 👨‍💻 Gelişmiş Notlar
+
+{% embed url="https://stackoverflow.com/questions/15959042/call-autohotkey-script-from-c-sharp" %}
+

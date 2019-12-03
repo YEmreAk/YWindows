@@ -6,6 +6,7 @@
 * 📢  \(`=` ile string ya da sayı atanır\)
 * 💠 Değişkenlerin varsayılan komutlar içerisindeki kullanımı `%değişken%` şeklindedir
 * ✨ Diğer kullanımlarda normal kullanabilirsiniz
+* 📣 Stringler `.` operatörü ile toplanır \(`+` değil\)
 
 {% hint style="info" %}
 👀 Detaylar için [Variable & Expression](https://www.autohotkey.com/docs/Variables.htm) alanına bakabilirsin
@@ -42,7 +43,7 @@ if WinActive("ahk_id" . ahkID) {
 ## 💡 Ekrana Metin Bastırma
 
 * 👁‍🗨 Ekrana metin gösterme `MsgBox` ile yapılır
-* ✨ Eğer değişken kullanmak istiyorsanız `MsgBox, %` komutunu kullanın
+* ✨ Eğer değişken kullanmak istiyorsanız `MsgBox, % <değişken> <değişken>` komutunu kullanın
 
 ## 👨‍💼 Pencere Yönetimi
 
@@ -86,14 +87,13 @@ Return
 
 * 📉 Ortam değişkenleri direkt olarak kullanmak verimliliği düşürür
 * 👮‍♀️`#NoEnv` kodu ile scriptlerinize başlayın
+* 🧱 Temel ortam değişkenlerini `A_değişken`kodu ile kullanabilirsin
+  * 👀 Dokümanda [Operating System and User Info](https://www.autohotkey.com/docs/Variables.htm#os) alanında açıklanmaktadır
 * 🛒 Ortam değişkenleri işlemleri için `EnvGet` ve `EnvSet` yapısı kullanılır
+  * 👀 Detaylı bilgi için [NoEnv](https://www.autohotkey.com/docs/commands/_NoEnv.htm), [EnvGet](https://www.autohotkey.com/docs/commands/EnvGet.htm) ve [EnvSet](https://www.autohotkey.com/docs/commands/EnvSet.htm) alanına bakabilirsin
 
 ```haskell
 EnvGet, userprofile, UserProfile
 path = %userprofile%Documents
 ```
-
-{% hint style="info" %}
-👀 Detaylı bilgi için [NoEnv](https://www.autohotkey.com/docs/commands/_NoEnv.htm), [EnvGet](https://www.autohotkey.com/docs/commands/EnvGet.htm) ve [EnvSet](https://www.autohotkey.com/docs/commands/EnvSet.htm) alanına bakabilirsin
-{% endhint %}
 
