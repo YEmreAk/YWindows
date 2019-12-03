@@ -9,7 +9,7 @@
   * [🌠 Genel Notlar](windowsa-giris/genel.md)
 * [💞 Kısayollar](kisayollar-1/README.md)
   * [💘 Kısayollar](kisayollar-1/kisayollar.md)
-  * [💞 YHotkeys](kisayollar-1/yhotkeys.md)
+  * [🌱 YHotkeys](kisayollar-1/yhotkeys.md)
   * [👨‍💻 Windows Yönetim Scriptim](https://github.com/yedhrab/YScripts/tree/master/AHK%20Script)
   * [👷‍♂️ Kendi Kısayolunu Oluşturma](https://windows.yemreak.com/autohotkey)
 * [🚀 Verimlilik Notlarım](verimlilik-notlarim/README.md)

@@ -15,7 +15,7 @@ description: 'Windows için denenmiş, sağ tık düzenleme programım'
 
 > Direkt indirmek için [buraya](https://drive.google.com/uc?id=1E-H6zi6IkycgBrAJ03vB9cCxuvTVbn81) tıklayabilirsin.
 
-![Sa&#x11F; T&#x131;k Men&#xFC;s&#xFC; D&#xFC;zenleme &#xF6;rnek kullan&#x131;m&#x131;](../../.gitbook/assets/image.png)
+![Sa&#x11F; T&#x131;k Men&#xFC;s&#xFC; D&#xFC;zenleme &#xF6;rnek kullan&#x131;m&#x131;](../../.gitbook/assets/image%20%281%29.png)
 
 ## 🎌 Kullanım Talimatları
 
@@ -46,9 +46,9 @@ description: 'Windows için denenmiş, sağ tık düzenleme programım'
 
 Kesinlikle **virüslü değildir**, windows tanımadığı `.exe` uzantılı dosyalara karşı bu tedbiri uyguluyor.
 
-![](../../.gitbook/assets/image%20%286%29.png)
+![](../../.gitbook/assets/image%20%2810%29.png)
 
-![](../../.gitbook/assets/image%20%282%29.png)
+![](../../.gitbook/assets/image%20%285%29.png)
 
 ## 🔗 Faydalı Bağlantılar
 

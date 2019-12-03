@@ -44,5 +44,5 @@ Her sayfanın en altında bulunan memnuniyet anketi ile ✨ gelişime ortak olab
 
 **The** [**MIT License**](https://choosealicense.com/licenses/mit/) **© Yunus Emre Ak**
 
-![](.gitbook/assets/image%20%285%29.png)
+![](.gitbook/assets/image%20%289%29.png)
 

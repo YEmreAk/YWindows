@@ -15,9 +15,9 @@ Alttaki işlem ile file explorer'a hem **tab** hem de **ön izleme** fonksiyonu 
 
 ## 👁‍🗨 Resimler
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 {% hint style="info" %}
 🔗 İstersen [buradan](https://www.raymond.cc/blog/how-to-have-tabs-in-your-windows-explorer/) diğer seçenekleri de deneyebilirsin
