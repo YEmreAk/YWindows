@@ -75,35 +75,6 @@ Tabloda `< >` arasına yazılanlar sizin tarafınızdan girilecek değerlerdir.
 * `for /f %i in ('dir /a:d /s /b A*') do echo rd /s /q %i` döngü ile dosya silme
 * `if not %IDS:1=%==%IDS% /I GOTO LIGHSHOT` komutu koşullu olarak`: LIGHTSHOT` alanına gider
 
-### CMD Değişkenleri
-
-Ayrıntılı bilgi için [buraya](https://ss64.com/nt/syntax-variables.html) tıklayabilirsin.
-
-#### Temel Kullanım
-
-```text
-<command> %<env_var>%
-```
-
-> Enviroment Variables yönetimi için `Bilgisayarım` - `Sağ Tık` - `Özellikleri` - `Gelişmiş Sistem Seçenenekleri` - `Ortam Değişkenleri`
-
-#### Sık Kullanılanlar
-
-| Şablon | Açıklama |
-| :--- | :--- |
-| `.` | Bulunan dizin \(working directory\) |
-| `..` | Bir üst dizin \(parent directory\) |
-| `*` | Tüm dosyalar |
-| `**` | Tüm dosya ve dizinler |
-| `*.js` | Uzantısı js olan tüm dosyalar |
-| `*lib/**/*.js` | Lib içindeki uzantısı js olan tüm dosyalar |
-| `%username%` | Kullanıcı adı |
-| `%appdata%` | Uygulama verileri dizini |
-| `%HOMEDRIVE%` | Kullanıcı diski |
-| `%homepath%` | Kullanıcı Yolu |
-| `%userprofile%` | Kullanıcı diskiyle yolu |
-| `%SystemRoot%` | System dizini \(Örn: `C:\Windows`\) |
-
 ### CMD Operatörleri
 
 | Şablon | Açıklama |  |

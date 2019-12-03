@@ -17,6 +17,7 @@
   * [👨‍💼 Paket Yöneticisi](verimlilik-notlarim/paket-yoeneticisi.md)
 * [👨‍💻 Geliştirici Notlarım](gelistirici-notlarim/README.md)
   * [🖤 Komut İstemi](gelistirici-notlarim/komut-istemi.md)
+  * [🌃 Ortam Değişkenleri](gelistirici-notlarim/ortam-degiskenleri.md)
   * [📋 Sağ Tık Menüsü](gelistirici-notlarim/sag-tik-menuesue/README.md)
     * [✨ Sağ Tık Menüsü Düzenleme Programım](gelistirici-notlarim/sag-tik-menuesue/sag-tik-menuesue-duezenleme-programim.md)
     * [✨ Sağ Tık Menüsü Düzenleme Programım](gelistirici-notlarim/sag-tik-menuesue/sag-tik-menuesue-duezenleme-programim-2.md)
