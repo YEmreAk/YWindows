@@ -8,6 +8,10 @@ description: Kişisel kod scriptlerim
 
 {% embed url="https://github.com/YEmreAk/YScripts/blob/master/AHK%20Script/WinManager.ahk" %}
 
+## 🌟 Faydalı Scriptler
+
+{% embed url="http://www.computoredge.com/AutoHotkey/Free\_AutoHotkey\_Scripts\_and\_Apps\_for\_Learning\_and\_Generating\_Ideas.html" %}
+
 ## 👨‍💼 Pencere Yönetimi
 
 {% tabs %}
