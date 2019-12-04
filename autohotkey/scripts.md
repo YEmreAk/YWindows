@@ -12,6 +12,8 @@ description: Kişisel kod scriptlerim
 
 {% embed url="http://www.computoredge.com/AutoHotkey/Free\_AutoHotkey\_Scripts\_and\_Apps\_for\_Learning\_and\_Generating\_Ideas.html" %}
 
+{% embed url="https://github.com/ahkscript/awesome-AutoHotkey" %}
+
 ## 👨‍💼 Pencere Yönetimi
 
 {% tabs %}
