@@ -4,6 +4,10 @@ description: Windows 10 için hotkey yöneticim
 
 # 🌱 YHotkeys
 
+## 🚀 Proje Sayfası
+
+{% embed url="https://github.com/yedhrab/YHotkeys" %}
+
 ## 🔰 Ne İşe Yarar
 
 * 👮‍♂️ Windows'un kısıtlı kısayollarına alternatif olarak yapılmıştır
