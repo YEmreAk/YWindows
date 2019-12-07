@@ -26,7 +26,8 @@
 📢 Detaylar için [How do I stop an active AutoHotkey script?](https://stackoverflow.com/questions/45700383/how-do-i-stop-an-active-autohotkey-script) sorusuna bakabilirsin
 {% endhint %}
 
-## 👨‍💻 Gelişmiş Notlar
+## 🤯 Gelişmiş Notlar
 
-{% embed url="https://stackoverflow.com/questions/15959042/call-autohotkey-script-from-c-sharp" %}
+* [🌍 HTTP istekleri](https://www.autohotkey.com/boards/viewtopic.php?t=49478)
+* [👨‍💻 C\# üzerinden AutoHotkey çağırma](https://stackoverflow.com/questions/15959042/call-autohotkey-script-from-c-sharp)
 
