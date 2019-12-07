@@ -31,7 +31,7 @@
 * [💫 AutoHotkey](autohotkey/README.md)
   * [🔰 AutoHotkey'e Giriş](autohotkey/giris.md)
   * [🧱 AHK Temel İşlemler](autohotkey/ahk-temel-islemler.md)
-  * [💞 Kısayollar ve Tamamlamalar](autohotkey/diger-islemler.md)
+  * [💞 Kısayollar](autohotkey/diger-islemler.md)
   * [🎌 AHK Tavsiyelerim](autohotkey/ahk-tavsiyelerim.md)
   * [👨‍💻 AHK Scriptleri](autohotkey/scripts.md)
 * [🥽 Awesome Windows](awesome.md)

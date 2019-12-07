@@ -1,4 +1,4 @@
-# 💞 Kısayollar ve Tamamlamalar
+# 💞 Kısayollar
 
 ## 🔰 Kısayolları Tanıyalım
 
