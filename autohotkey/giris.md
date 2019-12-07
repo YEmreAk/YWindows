@@ -20,7 +20,7 @@ Windows 10'da denenmiştir.
 | :--- | :--- |
 | [✨ YAutoHotkey](https://marketplace.visualstudio.com/items?itemName=yedhrab.yautohotkey) | Renklendirme, kod önerileri ve snippets |
 | 👨‍💼 [AutoHotkey Manager](https://marketplace.visualstudio.com/items?itemName=Denis-net.vscode-ahk-manager) | Derleme, çalıştırma, durdurma butonları ekler |
-| 🖤 DarkCode Theme | AutoHotkey destekleri tema |
+| [🖤 DarkCode Theme](https://marketplace.visualstudio.com/items?itemName=yedhrab.darkcode-theme-adopted-python-and-markdown) | AutoHotkey destekleri tema |
 
 ## 🔗 Harici Bağlantılar
 
