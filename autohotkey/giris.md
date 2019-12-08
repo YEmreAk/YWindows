@@ -24,7 +24,7 @@ Windows 10'da denenmiştir.
 
 ## 🏗️ AutoHotkey için IDE
 
-{% embed url="https://www.autoitscript.com/site/autoit/downloads/" %}
+{% embed url="https://www.autohotkey.com/docs/AHKL\_DBGPClients.htm\#SciTE4AutoHotkey" %}
 
 ## 🔗 Harici Bağlantılar
 
