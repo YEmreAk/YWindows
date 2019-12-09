@@ -32,6 +32,7 @@
   * [🔰 AutoHotkey'e Giriş](autohotkey/giris.md)
   * [🧱 AHK Temel İşlemler](autohotkey/ahk-temel-islemler.md)
   * [💞 Kısayollar](autohotkey/diger-islemler.md)
+  * [🌃 AHK ile GUI](autohotkey/ahk-ile-gui.md)
   * [🎌 AHK Tavsiyelerim](autohotkey/ahk-tavsiyelerim.md)
   * [👨‍💻 AHK Scriptleri](autohotkey/scripts.md)
   * [⏬ AHK ile Dosya İndirme](autohotkey/ahk-ile-dosya-indirme.md)
