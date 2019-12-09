@@ -34,6 +34,7 @@
   * [💞 Kısayollar](autohotkey/diger-islemler.md)
   * [🎌 AHK Tavsiyelerim](autohotkey/ahk-tavsiyelerim.md)
   * [👨‍💻 AHK Scriptleri](autohotkey/scripts.md)
+  * [⏬ AHK ile Dosya İndirme](autohotkey/ahk-ile-dosya-indirme.md)
 * [🥽 Awesome Windows](awesome.md)
 
 ## Derlenmiş Çalışmalarım
