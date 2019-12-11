@@ -2,7 +2,7 @@
 description: Dünyada en sık kullanılan işletim sistemi olan Windows 10 hakkında notlarım
 ---
 
-# 🎇 YWindows 10
+# 🎇 Windows 10 Notlarım
 
 ## 🙋‍♂️ Hoş Geldin
 

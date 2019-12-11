@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🎇 YWindows 10](README.md)
+* [🎇 Windows 10 Notlarım](README.md)
 * [🔰 Windows'a Giriş](windowsa-giris/README.md)
   * [👷‍ Windows 10 Kurulumu](windowsa-giris/kurulum.md)
   * [🔨 Sistem Ayarları](windowsa-giris/sistem.md)
