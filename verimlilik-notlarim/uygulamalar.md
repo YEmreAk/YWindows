@@ -32,8 +32,9 @@ description: Üretkenliğinizi arttıracak etkileyici uygulamalar
 | :--- | :--- | :--- |
 | 📸 Sharex | Ekran görüntüsü alma \([detaylar](https://www.youtube.com/watch?v=NB32QYt8WfI)\) | [👜](https://www.microsoft.com/tr-tr/p/sharex/9nblggh4z1sp?activetab=pivot%3Aoverviewtab) |
 | 🔍 Quick Look | Dosyaları açamadan `SPACE` ile ön izleme | [👜](https://www.microsoft.com/tr-tr/p/quicklook/9nv4bs3l1h4s?activetab=pivot:overviewtab) |
+| 🖱️ Numix Cursor | Mouse teması | [🌍](https://www.deviantart.com/alexgal23/art/Numix-Cursors-631491782) |
 | 🔁 Easy Windows Switcher | ⎇ Alt " ile aynı pencereler arasında geçiş | [🌍](https://neosmart.net/EasySwitch/) |
-| 📂 QTabBar | Dosya gezginini geliştirme, sekme ve ön izleme ekleme | [📃](../verimlilik-notlarim/dosya-gezginini-gelistirme.md) |
+| 📂 QTabBar | Dosya gezginini geliştirme, sekme ve ön izleme ekleme | [📃](dosya-gezginini-gelistirme.md) |
 | 📂 Winrar | Sıkıştırılmış dosyaları açma | [🌍](https://www.win-rar.com/download.html?&L=0) [🍫](https://chocolatey.org/packages/winrar) |
 | 🏢 Office | MS Office | [🌍](https://bit.ly/2kjVZe9) |
 | 💫 Feem v4 - Share Files Offline | Cihazlar arası veri paylaşımı | [👜](https://www.microsoft.com/tr-tr/p/feem-v4-share-files-offline/9wzdncrdsfg0) |

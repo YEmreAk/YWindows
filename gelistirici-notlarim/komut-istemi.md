@@ -8,7 +8,7 @@ description: Windows CMD ya da terminal notları
 
 Terminal'den tam olarak zevk alabilmen için, o sıkıcı CMD'den vazgeçip yeni [Windows Terminal Preview](https://www.microsoft.com/tr-tr/p/windows-terminal-preview/9n0dx20hk701?activetab=pivot:overviewtab)'ı denemelisin.
 
-{% page-ref page="../windowsa-giris/uygulamalar.md" %}
+{% page-ref page="../verimlilik-notlarim/uygulamalar.md" %}
 
 ## Command Promp \(CMD\)
 
