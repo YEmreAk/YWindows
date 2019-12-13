@@ -1,7 +1,7 @@
 ---
 description: >-
-  Yunus Emre Ak ~ YEmreAk (@yedhrab) 'ın windows ve windows 10 ile programlama
-  notları
+  Yunus Emre Ak ~ YEmreAk (@yedhrab) 'ın windows 10 ve windows 10 ile
+  programlama notları
 ---
 
 # 🎇 Windows 10 Notlarım
