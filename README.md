@@ -1,5 +1,7 @@
 ---
-description: Dünyada en sık kullanılan işletim sistemi olan Windows 10 hakkında notlarım
+description: >-
+  Yunus Emre Ak ~ YEmreAk (@yedhrab) 'ın windows ve windows 10 ile programlama
+  notları
 ---
 
 # 🎇 Windows 10 Notlarım

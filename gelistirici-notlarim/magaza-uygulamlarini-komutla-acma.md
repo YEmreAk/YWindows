@@ -4,7 +4,7 @@ description: >-
   olacağını anlatır.
 ---
 
-# 👜 Mağaza Uygulamalarını Komutla Açma
+# �� Mağaza Uygulamalarını Komutla Açma
 
 ## 🤓 Komutu Oluşturmak için Gerekli Bilgileri Alma
 
