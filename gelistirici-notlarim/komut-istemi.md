@@ -18,6 +18,15 @@ Terminalde dosya isimlerinin **sonu veya başı sayı içerirse** çeşitli soru
 
 Buradan [clink](http://mridgers.github.io/clink/) ile daha verimli kod tamamlayı cmd için aktif edebilirsin.
 
+### Macro Oluşturma
+
+Macro'lar kişisel komutlarımız olarak tanımlanabilir.
+
+* ✨ Macro oluşturmak için `doskey` komutu kullanılır
+* 🆘 Detaylı bilgi için `doskey /?` komutunu kullanabilirsin
+
+{% embed url="https://superuser.com/a/332872/1046035" %}
+
 ### Cmder Komut İstemi Alternatifi
 
 [Cmder](https://cmder.net/) windows cmd alternatifi olan bir yazılımdır.
