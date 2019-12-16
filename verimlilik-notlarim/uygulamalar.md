@@ -39,6 +39,7 @@ description: Üretkenliğinizi arttıracak etkileyici uygulamalar
 | 🏢 Office | MS Office | [🌍](https://bit.ly/2kjVZe9) |
 | 💫 Feem v4 - Share Files Offline | Cihazlar arası veri paylaşımı | [👜](https://www.microsoft.com/tr-tr/p/feem-v4-share-files-offline/9wzdncrdsfg0) |
 | 📐 PaintNet | Resim düzenleme uygulaması | [🌍](https://www.dotpdn.com/downloads/pdn.html) |
+| 🖼️ InPaint | Resim üzerindeki kareleri kaldırma | [🌍](https://www.theinpaint.com/download.html) |
 | 📂 Backup and Sync | Drive backup | [🌍](https://www.google.com/drive/download/backup-and-sync/) |
 | 🎴 Snip & Sketch | Ekran görüntüsü yakalayıcı ❖ Win⇧ Shift S | 📦 |
 | 📔 OneNote | Not alma uygulaması | 📦 |
