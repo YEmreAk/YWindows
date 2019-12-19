@@ -14,6 +14,10 @@
 * 🧹 Bu tuşlara basılması durumunda, yazılan silinir
 * 🛒 Sizin belirttiğiniz kelime yazılır
 
+{% hint style="info" %}
+‍🧙‍♂ AHK başlangıç dökümanındaki [2 - Hotkeys & Hotstrings](https://www.autohotkey.com/docs/Tutorial.htm#s2) alanına bakmanda fayda var
+{% endhint %}
+
 ### ⚙️ HotStrings Ayarları
 
 | 💎 Özellik | 📑 Açıklama |
