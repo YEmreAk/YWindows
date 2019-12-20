@@ -1,8 +1,8 @@
 ---
-description: AutoHotkey ile görsel tasarım yapma
+description: AutoHotkey ile görsel arayüz oluşturma (gui)
 ---
 
-# 🌃 AHK ile GUI
+# 🌃 Görsel Arayüz Oluşturma
 
 ## 🍢 `Progress` ile Dolum Animasyonları
 

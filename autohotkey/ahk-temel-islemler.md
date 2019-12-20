@@ -1,3 +1,9 @@
+---
+description: >-
+  AutoHotkey (AHK) hakkında temel bilgiler ve işlemler, temel autohotkey
+  kullanımı
+---
+
 # 🧱 AHK Temel İşlemler
 
 ## 💎 Değişkenler
