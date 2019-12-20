@@ -33,6 +33,7 @@
   * [🧱 AHK Temel İşlemler](autohotkey/ahk-temel-islemler.md)
   * [💞 Kısayollar](autohotkey/diger-islemler.md)
   * [📂 Dosya İşlemleri](autohotkey/dosya-islemleri.md)
+  * [⚙️ Yapılandırma Dosyası](autohotkey/yapilandirma-dosyasi.md)
   * [🌃 Görsel Arayüz Oluşturma](autohotkey/ahk-ile-gui.md)
   * [🎌 AHK Tavsiyelerim](autohotkey/ahk-tavsiyelerim.md)
   * [👨‍💻 AHK Scriptleri](autohotkey/scripts.md)

@@ -9,44 +9,24 @@ description: AutoHotkey ile dosya işlemleri
 * ⚙️ Dosya işlemleri için `ini` dosyaları tercih edilir
 * 💠 [`IniWrite`](https://www.autohotkey.com/docs/commands/IniWrite.htm), [`IniRead`](https://www.autohotkey.com/docs/commands/IniRead.htm) fonksiyonları ile dosya yönetilir
 
-## ✍ Dosyaya Yazma
+## 🧱 Temel İşlemler
 
-* 💠 IniWrite metodu ile yapılır
-
-```c
-IniWrite, this is a new value, %A_ScriptDir%\temp.ini, section2, key1
-IniWrite, this is a next value, %A_ScriptDir%\temp.ini, section2, key2
-```
-
-```ocaml
-[section2]
-key1=this is a newvalue
-key2=this is a next value
-```
-
-{% hint style="info" %}
-‍🧙‍♂ Detaylar için [`IniWrite`](https://www.autohotkey.com/docs/commands/IniWrite.htm) alanına bakmanda fayda var
-{% endhint %}
-
-## 👁️ IniRead ile Dosyadan Okuma
-
-| 💠 Kod | 📝 Açıklama |
+| 💠 Metot | 📑 Açıklama |
 | :--- | :--- |
-| `IniRead, OutputVar, Filename, Section, Key, Default` | `key` değerini okuma yoksa `Default` değerini alma |
-| `IniRead, OutputVar, Filename, Section, Key` | `key` okuma |
-| `IniRead, OutputVarSection, Filename, Section` | `section`değerlerini okuma |
-| `IniRead, OutputVarSectionNames, Filename` | Tüm dosyadaki `section` verilerini okuma |
+| [FileCreateDir](https://www.autohotkey.com/docs/commands/FileCreateDir.htm) | Dizin oluşturma |
+| [FileInstall](https://www.autohotkey.com/docs/commands/FileInstall.htm) | Exe'ye dosya yükleme |
+| [Special Variables Available Inside a File-Loop](https://www.autohotkey.com/docs/commands/LoopFile.htm#Special_Variables_Available_Inside_a_File-Loop) | Dosya Değişkenleri |
 
-```c
-IniRead, OutputVar, %A_ScriptDir%\temp.ini, section2, key2
-if (OutputVar != "ERROR") {
-    MsgBox, The value is %OutputVar%.
-}
+```haskell
+DIR_NAME = %A_AppData%\YHotkeys
+FileCreateDir,  %DIR_NAME%
+FileInstall, .\res\ylogo.ico, %DIR_NAME%\ylogo.ico, 1
+FileInstall, .\res\default.ico, %DIR_NAME%\default.ico, 1
+FileInstall, .\res\clear.ico, %DIR_NAME%\clear.ico, 1
+FileInstall, .\res\close.ico, %DIR_NAME%\close.ico, 1
 ```
 
-![](../.gitbook/assets/image%20%288%29.png)
-
-{% hint style="info" %}
-‍🧙‍♂ Detaylar için [`IniRead`](https://www.autohotkey.com/docs/commands/IniRead.htm) alanına bakmanda fayda var
+{% hint style="warning" %}
+📢 Source parametresinde değişken veya özel karakter kullanamazsın
 {% endhint %}
 
