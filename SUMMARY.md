@@ -34,6 +34,7 @@
   * [💞 Kısayollar](autohotkey/diger-islemler.md)
   * [📂 Dosya İşlemleri](autohotkey/dosya-islemleri.md)
   * [⚙️ Yapılandırma Dosyası](autohotkey/yapilandirma-dosyasi.md)
+  * [🖤 Komut İstemi Arayüzü](autohotkey/komut-istemi-arayuezue.md)
   * [🌃 Görsel Arayüz Oluşturma](autohotkey/ahk-ile-gui.md)
   * [🎌 AHK Tavsiyelerim](autohotkey/ahk-tavsiyelerim.md)
   * [👨‍💻 AHK Scriptleri](autohotkey/scripts.md)
