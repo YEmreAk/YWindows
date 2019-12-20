@@ -15,7 +15,7 @@ Alttaki işlem ile file explorer'a hem **tab** hem de **ön izleme** fonksiyonu 
 
 ## 👁‍🗨 Resimler
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 
 ![](../.gitbook/assets/image%20%286%29.png)
 
