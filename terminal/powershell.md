@@ -1,3 +1,7 @@
+---
+description: Windows PowerShell kullanımı
+---
+
 # 👨‍💻 PowerShell
 
 ## ✨ PowerShell'i Güncelleme

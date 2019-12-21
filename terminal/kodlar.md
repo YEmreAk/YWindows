@@ -1,3 +1,7 @@
+---
+description: Komut istemi için kod örnekleri ve faydalı kodlar
+---
+
 # 📜 CMD Kod Parçaları
 
 ## 💫 CMD Döngü Kullanımı

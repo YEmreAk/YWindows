@@ -1,4 +1,4 @@
-# 💞 Kısayollar
+# 💞 AHK Kısayollar
 
 ## 🔰 Kısayolları Tanıyalım
 

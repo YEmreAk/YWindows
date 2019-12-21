@@ -1,4 +1,8 @@
-# 🤎 Cmd Komutları
+---
+description: Komut istemi sık kullanılan faydalı komutlar
+---
+
+# 🤎 CMD Komutları
 
 ## 🌟 Sık Kullanılanlar
 
