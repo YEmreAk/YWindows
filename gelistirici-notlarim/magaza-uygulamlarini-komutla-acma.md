@@ -6,25 +6,6 @@ description: >-
 
 # 🛍️ Mağaza Uygulamalarını Komutla Açma
 
-## 🤓 Gerekli Bilgileri Alma
-
-* PowerShell üzerinden `Get-AppxPackage > appxpackages.txt` komutu ile dosyaya appx paketlerinin bilgilerini kaydedin
-* `.\appxpackages.txt` komutu ile dosyayı açın
-* ✲ Ctrl F ile dosya içerisinde kısayol oluşturmak istediğiniz uygulamanın adını aratın
-  * Örn: `OneNote`
-* Bulduğunuz uygulama bilgilerindeki alttaki kısımlar ileride kullanılacaktır:
-  * `PackageFamilyName`
-  * `InstallLocation`
-* `cat "InstallLocation\AppxManifest.xml" | grep "Executable="`  komutunu yazın ve çıkan sonuçtaki `"Application Id="` değerini kaydedin
-
-## 🏗️ Komutu Tanımlama
-
-Çalıştırma komutu aşağıdaki gibi olacaktır:
-
-* `shell:appsFolder\PackageFamilyName!Application Id`
-  * `PackageFamilyName` ve `Application Id` kısmına yukarıdaki işlemlerde bulduğumuz değerleri yazacağız
-* OneNote için: `shell:appsFolder\Microsoft.Office.OneNote_8wekyb3d8bbwe!microsoft.onenoteim`
-
 ## 👨‍💻 Tüm Komutları Görme
 
 * 📋 Alttaki kodu `powershell` üzerine kopyalayın
@@ -45,6 +26,29 @@ foreach ($app in $installedapps)
     }
 }
 ```
+
+{% hint style="info" %}
+‍🧙‍♂ Komut yerine manuel olarak yapmak istiyorsan alt kısımlara bakabilirsin
+{% endhint %}
+
+## 🤓 Gerekli Bilgileri Alma
+
+* PowerShell üzerinden `Get-AppxPackage > appxpackages.txt` komutu ile dosyaya appx paketlerinin bilgilerini kaydedin
+* `.\appxpackages.txt` komutu ile dosyayı açın
+* ✲ Ctrl F ile dosya içerisinde kısayol oluşturmak istediğiniz uygulamanın adını aratın
+  * Örn: `OneNote`
+* Bulduğunuz uygulama bilgilerindeki alttaki kısımlar ileride kullanılacaktır:
+  * `PackageFamilyName`
+  * `InstallLocation`
+* `cat "InstallLocation\AppxManifest.xml" | grep "Executable="`  komutunu yazın ve çıkan sonuçtaki `"Application Id="` değerini kaydedin
+
+## 🏗️ Komutu Tanımlama
+
+Çalıştırma komutu aşağıdaki gibi olacaktır:
+
+* `shell:appsFolder\PackageFamilyName!Application Id`
+  * `PackageFamilyName` ve `Application Id` kısmına yukarıdaki işlemlerde bulduğumuz değerleri yazacağız
+* OneNote için: `shell:appsFolder\Microsoft.Office.OneNote_8wekyb3d8bbwe!microsoft.onenoteim`
 
 ## 🔗 Harici Bağlantılar
 
