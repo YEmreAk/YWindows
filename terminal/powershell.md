@@ -1,4 +1,4 @@
-# 👨‍💻 PowerShell 6.0
+# 👨‍💻 PowerShell
 
 ## ✨ PowerShell'i Güncelleme
 
