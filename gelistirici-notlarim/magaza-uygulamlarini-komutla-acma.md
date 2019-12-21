@@ -12,7 +12,7 @@ description: >-
 * 👁️ Aradığınız komutu görmek için `cat appx_list.txt | grep UYGULAMA_ISMI` komutunu kullanın
 * 🧹 İşlem bittikten sonra dosyayı temizlemek için `del appx_list.txt` komutunu kullanabilirsiniz
 
-```perl
+```bash
 $installedapps = get-AppxPackage
 
 
