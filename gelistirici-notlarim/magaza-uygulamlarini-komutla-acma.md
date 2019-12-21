@@ -6,7 +6,7 @@ description: >-
 
 # 🛍️ Mağaza Uygulamalarını Komutla Açma
 
-## 🤓 Komutu Oluşturmak için Gerekli Bilgileri Alma
+## 🤓 Gerekli Bilgileri Alma
 
 * PowerShell üzerinden `Get-AppxPackage > appxpackages.txt` komutu ile dosyaya appx paketlerinin bilgilerini kaydedin
 * `.\appxpackages.txt` komutu ile dosyayı açın
@@ -17,7 +17,7 @@ description: >-
   * `InstallLocation`
 * `cat "InstallLocation\AppxManifest.xml" | grep "Executable="`  komutunu yazın ve çıkan sonuçtaki `"Application Id="` değerini kaydedin
 
-## 👨‍💻 Komutu Tanımlama
+## 🏗️ Komutu Tanımlama
 
 Çalıştırma komutu aşağıdaki gibi olacaktır:
 
