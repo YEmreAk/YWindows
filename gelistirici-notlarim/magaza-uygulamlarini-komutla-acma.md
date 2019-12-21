@@ -22,7 +22,7 @@ foreach ($app in $installedapps)
     {
 
         $line = $app.Name + " = " + $app.packagefamilyname + "!" + $id
-        echo $line
+        echo $line >> appx_list.txt
 
     }
 }
