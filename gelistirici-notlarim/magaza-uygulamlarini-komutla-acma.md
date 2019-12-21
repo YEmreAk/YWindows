@@ -4,7 +4,7 @@ description: >-
   olacağını anlatır.
 ---
 
-# �� Mağaza Uygulamalarını Komutla Açma
+# 🛍️ Mağaza Uygulamalarını Komutla Açma
 
 ## 🤓 Komutu Oluşturmak için Gerekli Bilgileri Alma
 
@@ -24,6 +24,27 @@ description: >-
 * `shell:appsFolder\PackageFamilyName!Application Id`
   * `PackageFamilyName` ve `Application Id` kısmına yukarıdaki işlemlerde bulduğumuz değerleri yazacağız
 * OneNote için: `shell:appsFolder\Microsoft.Office.OneNote_8wekyb3d8bbwe!microsoft.onenoteim`
+
+## 👨‍💻 Tüm Komutları Görme
+
+* 📋 Alttaki kodu `powershell` üzerine kopyalayın
+* 👁️ Aradığınız komutu görmek için `cat appx_list.txt | grep UYGULAMA_ISMI` komutunu kullanın
+* 🧹 İşlem bittikten sonra dosyayı temizlemek için `del appx_list.txt` komutunu kullanabilirsiniz
+
+```perl
+$installedapps = get-AppxPackage
+
+foreach ($app in $installedapps)
+{
+    foreach ($id in (Get-AppxPackageManifest $app).package.applications.application.id)
+    {
+
+        $line = $app.Name + " = " + $app.packagefamilyname + "!" + $id
+        echo $line >> appx_list.txt
+
+    }
+}
+```
 
 ## 🔗 Harici Bağlantılar
 
