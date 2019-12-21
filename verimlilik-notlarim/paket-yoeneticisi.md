@@ -25,8 +25,6 @@ Windows için popüler olan **Chocolatey** paket yöneticisi, powershell üzerin
 
 Yukarıdakileri tek tek kurmak yerine alttaki komutu `cmd`'ye kopyalayarak hem **chocolatey**'i hem de uygulamaları kurabilirsin
 
-> ⚠ Bu scripti kendine göre şekillendirmeni tavsiye ederim
-
 ```bash
 @"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile \
 -InputFormat None -ExecutionPolicy Bypass -Command "iex \
@@ -36,4 +34,8 @@ SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
 
 choco install -y firacode winrar youtube-dl wget vscode github-desktop python3 git --params "/GitAndUnixToolsOnPath /NoShellIntegration /WindowsTerminal"
 ```
+
+{% hint style="warning" %}
+📢 Bu scripti kendine göre şekillendirmeni tavsiye ederim
+{% endhint %}
 
