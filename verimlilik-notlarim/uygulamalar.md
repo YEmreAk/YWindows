@@ -56,7 +56,12 @@ description: Üretkenliğinizi arttıracak etkileyici uygulamalar
 | 🌳 Git | Proje versiyon yönetim uygulaması | [🌍](https://git-scm.com/downloads) [🍫](https://chocolatey.org/packages/git) |
 | 🍫 Chocolatey | Windows paket yöneticisi | [🌍](https://chocolatey.org/install) |
 | 💫 AutoHotkey | Kısayol oluşturucu ve scripting | [🌍](https://www.autohotkey.com/) [🍫](https://chocolatey.org/packages/autohotkey) |
+| 🐍 Python | Python programlama dili | [👜](https://www.microsoft.com/en-us/p/python-38/9mssztt1n39l) [🌍](https://www.python.org/downloads/release/python-381/) |
 | 👨‍💻 Desktop App Converter | Uygulamaları Store üzerinden paylaşılabilir yapıya çevirme | [👜](https://www.microsoft.com/en-us/p/desktop-app-converter/9nblggh4skzw) |
+
+{% hint style="warning" %}
+📢 Python store üzerinden indirildiğinde `%LOCALAPPDATA%\Packages\PythonSoftwareFoundation.Python.3.8_qbz5n2kfra8p0\LocalCache\local-packages\Python38\Scripts` yolu ortam değişkenlerine eklenmelidir
+{% endhint %}
 
 ## 👨‍💼 Yönetim
 
