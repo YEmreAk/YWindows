@@ -48,5 +48,6 @@ foreach ($app in $installedapps)
 
 ## 🔗 Harici Bağlantılar
 
-* [Method to open any Windows 10 Apps from command line](https://www.tenforums.com/software-apps/57000-method-open-any-windows-10-apps-command-line.html) yazısından derlenmiştir.
+* [Method to open any Windows 10 Apps from command line](https://www.tenforums.com/software-apps/57000-method-open-any-windows-10-apps-command-line.html)
+* [Find AppUserModelID](https://jcutrer.com/windows/find-aumid)
 
