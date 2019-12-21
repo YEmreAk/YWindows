@@ -18,6 +18,10 @@ description: AutoHotkey ile dosya işlemleri
 | [FileInstall](https://www.autohotkey.com/docs/commands/FileInstall.htm) | Exe'ye dosya yükleme |
 | [Special Variables Available Inside a File-Loop](https://www.autohotkey.com/docs/commands/LoopFile.htm#Special_Variables_Available_Inside_a_File-Loop) | Dosya Değişkenleri |
 
+{% hint style="warning" %}
+📢 Source parametresinde değişken veya özel karakter kullanamazsın
+{% endhint %}
+
 ## ⭐ Örnek Kullanım
 
 ```haskell
@@ -32,8 +36,4 @@ FileInstall, .\res\default.ico, %DIR_NAME%\default.ico, 1
 FileInstall, .\res\clear.ico, %DIR_NAME%\clear.ico, 1
 FileInstall, .\res\close.ico, %DIR_NAME%\close.ico, 1
 ```
-
-{% hint style="warning" %}
-📢 Source parametresinde değişken veya özel karakter kullanamazsın
-{% endhint %}
 
