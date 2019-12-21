@@ -24,6 +24,8 @@ Her sayfanın en altında bulunan memnuniyet anketi ile ✨ gelişime ortak olab
 
 ## ✨ En Popüler
 
+{% page-ref page="kisayollar/yhotkeys.md" %}
+
 {% page-ref page="verimlilik-notlarim/uygulamalar.md" %}
 
 {% page-ref page="kisayollar/varsayilan.md" %}
