@@ -1,6 +1,7 @@
 # Table of contents
 
 * [🎇 Windows 10 Notlarım](README.md)
+* [🌟 Faydalı Kaynaklar](https://learn.yemreak.com/windows-10)
 * [🔰 Windows'a Giriş](windowsa-giris/README.md)
   * [👷‍ Windows 10 Kurulumu](windowsa-giris/kurulum.md)
   * [🔨 Sistem Ayarları](windowsa-giris/sistem.md)
