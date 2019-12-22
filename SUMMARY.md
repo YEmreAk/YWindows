@@ -9,7 +9,7 @@
   * [🌠 Genel Notlar](windowsa-giris/genel.md)
 * [💞 Kısayollar](kisayollar/README.md)
   * [💘 Varsayılan Kısayollar](kisayollar/varsayilan.md)
-  * [🌱 YHotkeys ile özel kısayollar](https://yhotkeys.yemreak.com)
+  * [🌱 YHotkeys](kisayollar/yhotkeys.md)
   * [👷‍♂️ Kısayol Oluşturma](https://windows.yemreak.com/autohotkey)
 * [🚀 Verimlilik Notlarım](verimlilik-notlarim/README.md)
   * [🌈 Faydalı Uygulamalar](verimlilik-notlarim/uygulamalar.md)
