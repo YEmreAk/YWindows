@@ -34,6 +34,7 @@
   * [👨‍💻 AHK Scriptleri](autohotkey/scripts.md)
   * [⏬ AHK ile Dosya İndirme](autohotkey/ahk-ile-dosya-indirme.md)
 * [👨‍💻 Geliştirici Notlarım](gelistirici-notlarim/README.md)
+  * [🔏 VPN Bağlantısı](gelistirici-notlarim/vpn-baglantisi.md)
   * [🌃 Ortam Değişkenleri](gelistirici-notlarim/ortam-degiskenleri.md)
   * [📋 Sağ Tık Menüsü](gelistirici-notlarim/sag-tik-menuesue/README.md)
     * [✨ Sağ Tık Menüsü Düzenleme Programım](gelistirici-notlarim/sag-tik-menuesue/sag-tik-menuesue-duezenleme-programim.md)
