@@ -19,5 +19,5 @@ description: >-
 
 ## 🔗 Proje Sayfası
 
-{% embed url="https://yhotkey.yemreak.com" %}
+{% embed url="https://yhotkeys.yemreak.com" %}
 
