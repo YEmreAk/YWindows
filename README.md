@@ -26,11 +26,13 @@ Her sayfanın en altında bulunan memnuniyet anketi ile ✨ gelişime ortak olab
 
 {% page-ref page="verimlilik-notlarim/uygulamalar.md" %}
 
+{% page-ref page="verimlilik-notlarim/vpn.md" %}
+
+{% page-ref page="verimlilik-notlarim/hizlandirma.md" %}
+
 {% page-ref page="kisayollar/varsayilan.md" %}
 
 {% page-ref page="windowsa-giris/sistem.md" %}
-
-{% page-ref page="verimlilik-notlarim/hizlandirma.md" %}
 
 ## 🌍 Tüm YEmreAk İçerikleri
 
