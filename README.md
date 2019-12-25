@@ -1,10 +1,10 @@
 ---
 description: >-
-  Yunus Emre Ak ~ YEmreAk (@yedhrab) 'ın windows 10 işletin sistemi ve windows
-  10 işletim sistemi üzerinde programlama notları
+  Yunus Emre Ak ~ YEmreAk (@yedhrab) 'ın windows 10 ve windows 10 ile
+  programlama notları
 ---
 
-# 🎇 Windows Notlarım
+# 🎇 Windows 10 Notlarım
 
 ## 🙋‍♂️ Hoş Geldin
 

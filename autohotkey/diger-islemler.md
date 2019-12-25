@@ -40,10 +40,14 @@
 🧙‍♂️️ Ek ayarlara [Options](https://www.autohotkey.com/docs/Hotstrings.htm#Options) alanından erişebilirsin
 {% endhint %}
 
-## ⌨️ HotKeys
+## ⌨️ Hotkeys
 
 * ✨ Klavye kısayolları `<buton>::` yapısı ile oluşturulur
-* 👮‍♂️ İşlemin sonunda `return` yazmayı unutma, aksi halde altındakiler de çalışır.
+* 👮‍♂️ Sadece belirli pencerelerde çalışan kısayollar için [Remarks About Hotkey, If](https://www.autohotkey.com/docs/commands/Hotkey.htm#IfWin) __alanına bakmalısın
+
+{% hint style="danger" %}
+📢️ İşlemin sonunda `return` yazmayı unutma, aksi halde altındakiler de çalışır.
+{% endhint %}
 
 ### ✨ Hotkeys Butonları
 
