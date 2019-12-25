@@ -16,6 +16,7 @@ description: AutoHotkey ile dosya işlemleri
 | [FileCreateDir](https://www.autohotkey.com/docs/commands/FileCreateDir.htm) | Dizin oluşturma |
 | [FileRemoveDir](https://www.autohotkey.com/docs/commands/FileRemoveDir.htm) | Dizin kaldırma |
 | [FileInstall](https://www.autohotkey.com/docs/commands/FileInstall.htm) | Exe'ye dosya yükleme |
+| [FileCopy](https://www.autohotkey.com/docs/commands/FileCopy.htm) | Dosya kopyalama |
 | [FileCreateShortcut](https://www.autohotkey.com/docs/commands/FileCreateShortcut.htm) | Kısayol oluşturma |
 | [Special Variables Available Inside a File-Loop](https://www.autohotkey.com/docs/commands/LoopFile.htm#Special_Variables_Available_Inside_a_File-Loop) | Dosya Değişkenleri |
 
