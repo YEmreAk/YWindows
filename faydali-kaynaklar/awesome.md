@@ -2,7 +2,7 @@
 description: "Windows 10 için faydalı uygulamaların hepsi \U0001F929"
 ---
 
-# 🥽 Awesome Windows
+# 📋 Tüm Yabancı Kaynaklar
 
 ## 🗽 Açıklama
 

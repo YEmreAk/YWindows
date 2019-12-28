@@ -1,7 +1,6 @@
 # Table of contents
 
 * [🎇 Windows Notlarım](README.md)
-* [🌟 Faydalı Kaynaklar](https://learn.yemreak.com/windows-10)
 * [🔰 Windows'a Giriş](windowsa-giris/README.md)
   * [👷‍ Windows 10 Kurulumu](windowsa-giris/kurulum.md)
   * [🔨 Sistem Ayarları](windowsa-giris/sistem.md)
@@ -45,7 +44,11 @@
 * [🐧 Windows'ta Linux](windowsta-linux/README.md)
   * [🌇 Windows Subsystem for Linux \(WSL\)](windowsta-linux/wsl.md)
   * [🐞 Hata Notlarım](windowsta-linux/hata-notlarim.md)
-* [🥽 Awesome Windows](awesome.md)
+
+## Faydalı Kaynaklar
+
+* [👨‍🏫 Öğrenme Yolları](https://learn.yemreak.com/windows-10)
+* [📋 Tüm Yabancı Kaynaklar](faydali-kaynaklar/awesome.md)
 
 ## Derlenmiş Çalışmalarım
 
