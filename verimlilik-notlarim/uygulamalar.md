@@ -1,5 +1,7 @@
 ---
-description: Üretkenliğinizi arttıracak etkileyici uygulamalar
+description: >-
+  Windows 10 üzerinde üretkenliğinizi arttıracak, verimli, faydalı ve etkileyici
+  uygulamaların listesi
 ---
 
 # 🌈 Faydalı Uygulamalar
