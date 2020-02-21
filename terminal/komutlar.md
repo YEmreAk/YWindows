@@ -41,6 +41,7 @@ Tabloda `< >` arasına yazılanlar sizin tarafınızdan girilecek değerlerdir.
 
 | Şablon | Açıklama |
 | :--- | :--- |
+| `^` | Escape char \(Satır atlatma vs işlemleri kodu bozmaz. `^ENTER`\) |
 | `<komut1> & <komut2>` | Komut1 ve komut2 işlemini çalıştırır |
 | `<komut1> && <komut2>` | Komut1 işlemini yaptıktan sonra komut2 işlemini çalıştırır |
 | `<komut1> | <komut2>`  | Pipe, komut1'in çıktısını komut2 için kullanır |
