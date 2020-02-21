@@ -27,7 +27,7 @@ foreach ($app in $installedapps)
 ```
 
 {% hint style="info" %}
-‍🧙‍♂ Komut yerine manuel olarak yapmak istiyorsan alt kısımlara bakabilirsin
+‍🧙‍♂ Komut yerine manüel olarak yapmak istiyorsan alt kısımlara bakabilirsin
 {% endhint %}
 
 ## 🤓 Gerekli Bilgileri Alma
