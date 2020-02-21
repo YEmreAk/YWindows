@@ -207,6 +207,12 @@ else
 Return
 ```
 
+## 🧹 Taskbar'dan Kaldırma
+
+```text
+WinSet, ExStyle, ^0x80, ahk_id %ahkID%
+```
+
 ## 🧐 Aktif Olan Tüm Pencerelerin ID'sini Alma
 
 ```text
