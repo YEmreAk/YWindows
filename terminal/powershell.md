@@ -27,3 +27,16 @@ Set-PSReadLineKeyHandler -Key Ctrl+w -Function BackwardKillWord
 Remove-PSReadLineKeyHandler -Key Ctrl+w
 ```
 
+## ⏬ İndirme İşlemleri
+
+```perl
+$url = "file_url"
+$output = "$PSScriptRoot\file_out"
+$start_time = Get-Date
+
+$wc = New-Object System.Net.WebClient
+$wc.DownloadFile($url, $output)
+```
+
+{% embed url="https://blog.jourdant.me/post/3-ways-to-download-files-with-powershell" %}
+
