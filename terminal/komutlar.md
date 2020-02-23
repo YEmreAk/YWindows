@@ -13,6 +13,7 @@ Tabloda `< >` arasına yazılanlar sizin tarafınızdan girilecek değerlerdir.
 | `cls` | Konsolu temizleme |
 | `cd <yol>` | Dizin değiştirme |
 | `mkdir <dizin_adı>` | Klasör oluşturma |
+| `call <path>` | Process veya bat dosyası çağırma |
 | `start <dosya` \|`dizin>` | Dosya veya dizin açma |
 | `start "" <dosya | dizin | komut>` | CMD ekranı olmadan açma |
 | `ren <eski_isim> <yeni_isim>` | Dosyayı yeniden adlandırma |
