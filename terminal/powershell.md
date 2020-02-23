@@ -30,11 +30,15 @@ Remove-PSReadLineKeyHandler -Key Ctrl+w
 ## ⏬ İndirme İşlemleri
 
 ```perl
-$url = "file_url"
-$output = "$PSScriptRoot\file_out"
+$url = "https://www.autohotkey.com/download/1.1/AutoHotkey_1.1.31.01_setup.exe"
+$output = "$PSScriptRoot\ahk_install.exe"
 $start_time = Get-Date
 
 $wc = New-Object System.Net.WebClient
+
+$UserAgent = "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; .NET CLR 1.0.3705;)"
+$wc.Headers.Add([System.Net.HttpRequestHeader]::UserAgent, $UserAgent);
+
 $wc.DownloadFile($url, $output)
 ```
 
