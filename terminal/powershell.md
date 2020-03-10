@@ -32,7 +32,6 @@ Remove-PSReadLineKeyHandler -Key Ctrl+w
 ```perl
 $url = "https://www.autohotkey.com/download/1.1/AutoHotkey_1.1.31.01_setup.exe"
 $output = "$PSScriptRoot\ahk_install.exe"
-$start_time = Get-Date
 
 $wc = New-Object System.Net.WebClient
 
