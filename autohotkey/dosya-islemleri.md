@@ -24,10 +24,18 @@ description: AutoHotkey ile dosya işlemleri
 📢 Source parametresinde değişken veya özel karakter kullanamazsın
 {% endhint %}
 
+## 👨‍🔧 UTF-8 Sorunu Çözümü
+
+```haskell
+FileEncoding, UTF-8
+```
+
 ## ⭐ Örnek Kullanım
 
 ```haskell
 DIR_NAME = %A_AppData%\YHotkeys
+
+FileEncoding, UTF-8
 
 FileRemoveDir, %DIR_NAME%, 1
 

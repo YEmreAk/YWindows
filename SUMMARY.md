@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🎇 Windows Notlarım](README.md)
-* [👀 Neler Değişti](CHANGELOG.md)
+* [👀 Neler Değişti](changelog.md)
 * [🔰 Windows'a Giriş](windowsa-giris/README.md)
   * [👷‍ Windows 10 Kurulumu](windowsa-giris/kurulum.md)
   * [🔨 Sistem Ayarları](windowsa-giris/sistem.md)
