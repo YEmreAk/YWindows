@@ -20,6 +20,6 @@ Alttaki komutları ❖ Win + R ile açılan **run** pencerisine yazmanız gerekm
 
 ## 🔗 Harici Bağlantılar
 
-* [🧱 Windows Sağ Tık Menüsünü Özelleştirme](https://github.com/yedhrab/YWindows10/tree/0c092d489e79c475b0a1f5ae555a12a98465b295/1%20-%20Sıfırdan%20Windows%2010/Windows%2010%20Diğer%20Notlar/Windows%20Sağ%20Tık%20Menüsünü%20Özelleştirme.md)
-* [🌆 Windows Ortam Değişkenleri](https://github.com/yedhrab/YWindows10/tree/0c092d489e79c475b0a1f5ae555a12a98465b295/1%20-%20Sıfırdan%20Windows%2010/Windows%2010%20Diğer%20Notlar/Windows%20Ortam%20Değişkenleri.md)
+* [🧱 Windows Sağ Tık Menüsünü Özelleştirme](../gelistirici-notlarim/sag-tik-menuesue/)
+* [🌆 Windows Ortam Değişkenleri](../gelistirici-notlarim/ortam-degiskenleri.md)
 

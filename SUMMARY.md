@@ -39,7 +39,7 @@
   * [📋 Sağ Tık Menüsü](gelistirici-notlarim/sag-tik-menuesue/README.md)
     * [✨ Sağ Tık Menüsü Düzenleme Programım](gelistirici-notlarim/sag-tik-menuesue/sag-tik-menuesue-duezenleme-programim.md)
     * [👨‍🔧 Sağ Tık Menüsü Düzenleme](gelistirici-notlarim/sag-tik-menuesue/sag-tik-menuesue-duezenleme-programim-2.md)
-  * [⏹ RegEdit Ayarları](gelistirici-notlarim/regedit.md)
+  * [⏺️ RegEdit Ayarları](gelistirici-notlarim/regedit.md)
   * [🛍️ Mağaza Uygulamalarını Komutla Açma](gelistirici-notlarim/magaza-uygulamlarini-komutla-acma.md)
   * [🧙‍ Gizlenmiş GodMode](gelistirici-notlarim/godmode.md)
 * [🐧 Windows'ta Linux](windowsta-linux/README.md)

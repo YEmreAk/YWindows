@@ -2,7 +2,7 @@
 description: Windows'un çekirdek ayarlarının bulunduğu kritik verileri düzenleme
 ---
 
-# ⏹ RegEdit Ayarları
+# ⏺️ RegEdit Ayarları
 
 ## ⏹ RegEdit Düzenleme Dosyası
 
