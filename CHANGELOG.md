@@ -2,6 +2,7 @@
 
 ## 📋 Tüm Değişiklikler
 
+- 18/03/2020 - 15:25:42 - [GitBook: [master] one page modified](https://github.com/YEmreAk/YWindows/commit/6b7b8d683a533c5c676b5f5f88cd9ed29e5eff05?diff=split) ~ Yunus Emre
 - 17/03/2020 - 18:10:17 - [GitBook: [master] 46 pages modified](https://github.com/YEmreAk/YWindows/commit/f5697d63d3e8dc96a59cfcf5628fb21c470bfa9e?diff=split) ~ Yunus Emre
 - 10/03/2020 - 22:56:30 - [GitBook: [master] one page modified](https://github.com/YEmreAk/YWindows/commit/dc13dd2c01f46f9c5e233a0e1b23fe7e37392ae6?diff=split) ~ Yunus Emre
 - 10/03/2020 - 21:03:21 - [GitBook: [master] 5 pages modified](https://github.com/YEmreAk/YWindows/commit/74785fb143a0c7a1b21e6d95a40ac4a0c2460ebe?diff=split) ~ Yunus Emre
