@@ -46,3 +46,15 @@ WshShell.Run chr(34) & "path\to\bat" & Chr(34), 0
 Set WshShell = Nothing
 ```
 
+## 🧵 Process İşlemleri
+
+```bash
+taskkill /F /PID pid_number
+taskkill /IM "process name" /F
+taskkill /im "yhotkeys.exe" /f /t
+```
+
+{% hint style="info" %}
+‍🧙‍♂ Detaylı bilgi için [How to Kill a Process in Windows 10](https://winaero.com/blog/kill-process-windows-10/) alanına bakabilirsin.
+{% endhint %}
+
