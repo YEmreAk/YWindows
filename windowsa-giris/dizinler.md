@@ -18,6 +18,14 @@ Alttaki komutları ❖ Win + R ile açılan **run** pencerisine yazmanız gerekm
 * `C:\Users\%username%\AppData\Local`
 * `C:\ProgramData`
 
+## 👅 Dil ve Sözlük Dizinleri
+
+* `%appdata%\Microsoft\Spelling` dizininde kullanıcı sözlükleri vardır
+
+{% hint style="info" %}
+‍🧙‍♂ Detaylı bilgi için [Editing the Custom Directory on Windows 10](https://www.windowscentral.com/how-edit-custom-spell-check-dictionary-windows-10) alanına bakabilirsin.
+{% endhint %}
+
 ## 🔗 Harici Bağlantılar
 
 * [🧱 Windows Sağ Tık Menüsünü Özelleştirme](../gelistirici-notlarim/sag-tik-menuesue/)
