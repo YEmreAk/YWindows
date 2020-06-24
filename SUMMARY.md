@@ -42,6 +42,7 @@
   * [⏺️ RegEdit Ayarları](gelistirici-notlarim/regedit.md)
   * [🛍️ Mağaza Uygulamalarını Komutla Açma](gelistirici-notlarim/magaza-uygulamlarini-komutla-acma.md)
   * [🧙‍ Gizlenmiş GodMode](gelistirici-notlarim/godmode.md)
+  * [🐞 Hata Notları](gelistirici-notlarim/hata-notlari.md)
 * [🐧 Windows'ta Linux](windowsta-linux/README.md)
   * [🌇 Windows Subsystem for Linux \(WSL\)](windowsta-linux/wsl.md)
   * [🐞 Hata Notlarım](windowsta-linux/hata-notlarim.md)
