@@ -69,7 +69,7 @@ description: >-
 * `Shortcut` alnına tıklayıp klavyenizden bir tuşa basın
 * ✲ Ctrl + ⎇ Alt kombinasyonları ile kısayol oluşturabilirsiniz
 
-> [💫 AutoHotkey](../autohotkey/) ile istediğin kısayolları oluşturan scriptler yazabilirsin.
+> [💫 AutoHotkey]() ile istediğin kısayolları oluşturan scriptler yazabilirsin.
 
 ## 📋 Tüm Kısayolların Listesi
 
