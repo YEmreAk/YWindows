@@ -22,7 +22,6 @@
   * [🤎 CMD Komutları](terminal/komutlar.md)
   * [📜 CMD Kod Parçaları](terminal/kodlar.md)
   * [👨‍💻 PowerShell](terminal/powershell.md)
-* [💫 AutoHotkey](https://ahk.yemreak.com)
 * [👨‍💻 Geliştirici Notlarım](gelistirici-notlarim/README.md)
   * [🌃 Ortam Değişkenleri](gelistirici-notlarim/ortam-degiskenleri.md)
   * [📋 Sağ Tık Menüsü](gelistirici-notlarim/sag-tik-menuesue/README.md)
@@ -39,6 +38,7 @@
 ## Faydalı Kaynaklar
 
 * [👨‍🏫 Öğrenme Yolları](https://learn.yemreak.com/windows-10)
+* [💫 AutoHotkey](https://ahk.yemreak.com)
 * [📋 Tüm Yabancı Kaynaklar](faydali-kaynaklar/awesome.md)
 
 ## Tüm Kişisel Notlarım
