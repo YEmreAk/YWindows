@@ -4,6 +4,19 @@ description: QTabBar ile dosya gezginini geliştirme
 
 # 📂 Dosya Gezginini Geliştirme
 
+## 🖼️ Dosya Gösterimleri
+
+Dosya gezginini açın ve alttaki kısayollarla istediğiniz gösterime geçiş yapın
+
+* CTRL + SHIFT + 1 Extra Large
+* CTRL + SHIFT + 2 Large icons
+* CTRL + SHIFT + 3 Medium Icons
+* CTRL + SHIFT + 4 Small Icons
+* CTRL + SHIFT + 5 List
+* CTRL + SHIFT + 6 Details
+* CTRL + SHIFT + 7 Tiles
+* CTRL + SHIFT + 8 Content
+
 ## 👣 Temel Adımlar
 
 Alttaki işlem ile file explorer'a hem **tab** hem de **ön izleme** fonksiyonu ekleyebilirsin.
