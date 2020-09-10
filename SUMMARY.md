@@ -1,7 +1,7 @@
-# Table of contents
+# 📋 Tüm İçerikler
 
 * [🎇 Windows Notlarım](README.md)
-* [👀 Neler Değişti](changelog.md)
+* [👀 Neler Değişti](https://github.com/YEmreAk/YWindows10/blob/master/CHANGELOG.md)
 * [🔰 Windows'a Giriş](windowsa-giris/README.md)
   * [👷‍ Windows 10 Kurulumu](windowsa-giris/kurulum.md)
   * [🔨 Sistem Ayarları](windowsa-giris/sistem.md)
@@ -63,4 +63,3 @@
 * [🔥 Firebase ve React Projem](https://github.com/yedhrab/YReact-Firebase)
 * [👨‍💻 Kişisel Scriptlerim](https://github.com/YEmreAk/YScripts)
 * [📕 Türkçe Git Kitabı](https://www.yemreak.com/book-git/)
-
