@@ -27,6 +27,27 @@ Set-PSReadLineKeyHandler -Key Ctrl+w -Function BackwardKillWord
 Remove-PSReadLineKeyHandler -Key Ctrl+w
 ```
 
+## 🔤 String içerisinde string arama
+
+```csharp
+// String aramaları büyük küçük harfe duyarlıdır
+"yemreak.com".IndexOf("Yemreak") // -1
+"yemreak.com".IndexOf("yemreak") // 0
+
+// Aşağıdaki gibi flag vererek bunu kapatabiliriz
+"yemreak.com".IndexOf("Yemreak", [System.StringComparison]::CurrentCultureIgnoreCase) // 0
+
+```
+
+{% hint style="info" %}
+‍🧙‍♂ Detaylı bilgi için [How do I find the position of substring in PowerShell after position x?](https://stackoverflow.com/a/49843643/9770490)alanına bakabilirsin.
+{% endhint %}
+
+## 👨‍🔧 Kopyalanan Kodun Tersten Yazılma Sorunu
+
+* Powershell farklı bir EoF karakteri ile biten scriptleri tersten kopyalayabiliyor
+* Bu sorunu çözmek için önce not defterine yapıştırın, ardından oradakini kopyalayıp powershell üzerine yapıştırın
+
 ## ⏬ İndirme İşlemleri
 
 ```perl
