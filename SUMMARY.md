@@ -1,4 +1,4 @@
-# 📋 Tüm İçerikler
+# Table of contents
 
 * [🎇 Windows Notlarım](README.md)
 * [👀 Neler Değişti](https://github.com/YEmreAk/YWindows10/blob/master/CHANGELOG.md)
@@ -63,3 +63,4 @@
 * [🔥 Firebase ve React Projem](https://github.com/yedhrab/YReact-Firebase)
 * [👨‍💻 Kişisel Scriptlerim](https://github.com/YEmreAk/YScripts)
 * [📕 Türkçe Git Kitabı](https://www.yemreak.com/book-git/)
+

@@ -8,26 +8,28 @@ description: >-
 
 ## 👨‍💻 Tüm Komutları Görme
 
-* 📋 Alttaki kodu `powershell` üzerine kopyalayın
-* 👁️ Aradığınız komutu görmek için `cat appx_list.txt | grep UYGULAMA_ISMI` komutunu kullanın
-* 🧹 İşlem bittikten sonra dosyayı temizlemek için `del appx_list.txt` komutunu kullanabilirsiniz
+* 📋 Alttaki kodu ilk olarak not defterine sonra oradan kopyalayıp `PowerShell` üzerine yapıştırın
+* 👁️ Aradığınız komutu görmek için uygulama ismini yazmanız yeterlidir
+* 👨‍💻 Gelen komutu ❖ Win R ile açılan çalıştır penceresine yazarak uygulamayı açabilirsiniz
 
 ```bash
+$appName = Read-Host "App name"
 $installedapps = get-AppxPackage
 foreach ($app in $installedapps)
 {
     foreach ($id in (Get-AppxPackageManifest $app).package.applications.application.id)
     {
-
+        
         $line = $app.Name + " = " + $app.packagefamilyname + "!" + $id
-        echo $line >> appx_list.txt
-
+        if ($line.IndexOf($appName, [System.StringComparison]::CurrentCultureIgnoreCase) -ge 0) {
+            echo "shell:appsFolder\$app.packagefamilyname!$id" 
+        }
     }
 }
 ```
 
 {% hint style="info" %}
-‍🧙‍♂ Komut yerine manüel olarak yapmak istiyorsan alt kısımlara bakabilirsin
+‍🧙‍♂ Komutları ilk olarak not defterine yapıştırma sebebimiz, PowerShell end of line hatasından dolayı tersten işleme almasını engellemektir
 {% endhint %}
 
 ## 🤓 Gerekli Bilgileri Alma
