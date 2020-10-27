@@ -42,13 +42,33 @@ Remove-PSReadLineKeyHandler -Key Ctrl+w
 # Ctrl W tuşu ile kelime silme
 Set-PSReadLineKeyHandler -Key Ctrl+w -Function BackwardKillWord
 
-# Tab tuşu ile kelime tamamlama (Complete yerine MenuComplete tavsiye edilir)
+# Tab tuşu ile kelime tamamlama (Complete yerine MenuComplete de olur)
 Set-PSReadlineKeyHandler -Key Tab -Function Complete
 ```
 
 {% hint style="info" %}
 ‍🧙‍♂ Detaylı bilgi için [How to make PowerShell tab completion work like Bash](https://stackoverflow.com/questions/8264655/how-to-make-powershell-tab-completion-work-like-bash) alanına bakabilirsin.
 {% endhint %}
+
+## 💠 Fonksiyon Tanımlama
+
+```perl
+# Script için admin yetkisi zorunlu kılma
+#Requires -RunAsAdministrator
+
+function TestFunc {
+    # Parametre tanımlaması
+    param(
+        [Parameter(Mandatory=$true, HelpMessage="Username")] 
+        [string]$Username,
+        
+        [Parameter(Mandatory=$false, HelpMessage="Name")] 
+        [string]$Name,
+    )
+    
+    echo "$Username, $Name"
+}
+```
 
 ## 🔤 String içerisinde string arama
 
@@ -59,7 +79,6 @@ Set-PSReadlineKeyHandler -Key Tab -Function Complete
 
 // Aşağıdaki gibi flag vererek bunu kapatabiliriz
 "yemreak.com".IndexOf("Yemreak", [System.StringComparison]::CurrentCultureIgnoreCase) // 0
-
 ```
 
 {% hint style="info" %}
@@ -85,5 +104,5 @@ $wc.Headers.Add([System.Net.HttpRequestHeader]::UserAgent, $UserAgent);
 $wc.DownloadFile($url, $output)
 ```
 
-{% embed url="https://blog.jourdant.me/post/3-ways-to-download-files-with-powershell" %}
+{% embed url="https://blog.jourdant.me/post/3-ways-to-download-files-with-powershell" caption="" %}
 
