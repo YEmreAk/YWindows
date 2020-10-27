@@ -2,6 +2,7 @@
 
 ## 📋 Tüm Değişiklikler
 
+- 27/10/2020 - 12:32:03 - [GitBook: [master] 34 pages modified](https://github.com/YEmreAk/YWindows/commit/f57d80d97ebadfcac50c516ee7fac0a6f0e6a11a?diff=split) ~ Yunus Emre
 - 10/09/2020 - 15:03:15 - [🔄👨‍🔧 GitBook entegrasyon sorunları çözüldü](https://github.com/YEmreAk/YWindows/commit/bd3449705d7a0be32523998d0b2a8512d43d66e0?diff=split) ~ Yedhrab
 - 13/07/2020 - 14:34:00 - [GitBook: [master] 34 pages modified](https://github.com/YEmreAk/YWindows/commit/c5b1e55a09dcc175056c70b7028355eecb1b3099?diff=split) ~ Yunus Emre
 - 27/06/2020 - 12:44:46 - [GitBook: [master] one page modified](https://github.com/YEmreAk/YWindows/commit/52fc3a1b6def39c6f600e0a1a26f62664a093492?diff=split) ~ Yunus Emre
