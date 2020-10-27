@@ -42,8 +42,8 @@ Remove-PSReadLineKeyHandler -Key Ctrl+w
 # Ctrl W tuşu ile kelime silme
 Set-PSReadLineKeyHandler -Key Ctrl+w -Function BackwardKillWord
 
-# Tab tuşu ile kelime tamamlama
-Set-PSReadlineKeyHandler -Key Tab -Function Comp
+# Tab tuşu ile kelime tamamlama (Complete yerine MenuComplete tavsiye edilir)
+Set-PSReadlineKeyHandler -Key Tab -Function Complete
 ```
 
 {% hint style="info" %}
