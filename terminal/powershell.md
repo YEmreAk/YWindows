@@ -17,14 +17,33 @@ description: Windows PowerShell kullanımı
 ‍🧙‍♂ Detaylı bilgi için [Can't install msix](https://github.com/PowerShell/PowerShell/issues/10469#issuecomment-526784730) alanına bakabilirsin.
 {% endhint %}
 
+## 🤵 Profile Dosyası
+
+* Powershell her açıldığında derlenen dosyadır \(linux `bash-profile.sh` gibi\)
+* `%USERPROFILE%\Documents\WindowsPowerShell\profile.ps1` dizininde bulunur
+* OneDrive için `%USERPROFILE%\OneDrive\Documents\WindowsPowerShell\profile.ps1`
+
 ## 💞 Kısayol Oluşturma
 
 * 🏗️ Kısayol oluşturmak için `Set-PSReadLineKeyHandler` 
 * 🧹 Kısayol kaldırmak için `Remove-PSReadLineKeyHandler` 
 
-```perl
+```csharp
 Set-PSReadLineKeyHandler -Key Ctrl+w -Function BackwardKillWord
 Remove-PSReadLineKeyHandler -Key Ctrl+w
+```
+
+## 🐧 Bash gibi İşlevsellikler Katma
+
+* 📂 Profile dosyanızı açın \(🤵 Profile Dosyası alanına bakabilirsiniz\)
+* 📝 Açılan dosyanın en altın alttaki kod parçasını kopyalayın
+
+```perl
+# Ctrl W tuşu ile kelime silme
+Set-PSReadLineKeyHandler -Key Ctrl+w -Function BackwardKillWord
+
+# Tab tuşu ile kelime tamamlama
+Set-PSReadlineKeyHandler -Key Tab -Function Comp
 ```
 
 ## 🔤 String içerisinde string arama
