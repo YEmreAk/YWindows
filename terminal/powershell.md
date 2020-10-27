@@ -46,6 +46,10 @@ Set-PSReadLineKeyHandler -Key Ctrl+w -Function BackwardKillWord
 Set-PSReadlineKeyHandler -Key Tab -Function Comp
 ```
 
+{% hint style="info" %}
+‍🧙‍♂ Detaylı bilgi için [How to make PowerShell tab completion work like Bash](https://stackoverflow.com/questions/8264655/how-to-make-powershell-tab-completion-work-like-bash) alanına bakabilirsin.
+{% endhint %}
+
 ## 🔤 String içerisinde string arama
 
 ```csharp
