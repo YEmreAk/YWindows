@@ -16,3 +16,12 @@ description: Windows 10 üzerinde karşılaştığım hatalar için çözüm not
 Get-appxprovisionedpackage –online | where-object {$_.packagename –like "*windowscommunicationsapps*"} | remove-appxprovisionedpackage –online
 ```
 
+## 📶 Bluetooth ile Cihaz Bulunamaması
+
+* Bu durum cihazınızın orijinal sürücüsünü kullanmadığınızda gerçekleşir
+* Cihazın satıcısının sitesi üzerinden sürücü indirin ve bilgisayarı yeniden başlatın
+
+{% hint style="success" %}
+02.02.2021 tarihinde denenmiş, ve çalışmaktadır
+{% endhint %}
+
